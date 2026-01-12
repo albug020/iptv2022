@@ -903,6 +903,7 @@ https://github.com/albug020/iptv2022/raw/refs/heads/main/channels/echannel.m3u8
 #EXTVLCOPT:http-user-agent=smartlabs
 https://github.com/albug020/iptv2022/raw/refs/heads/main/channels/mmtv.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="udmurtia" tvg-logo="https://iptvx.one/picons/udmurtia.png" catchup="default" catchup-source="http://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8?profile=*&offset=-${offset}"  catchup-days="7",Удмуртия
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 http://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="mir-belogoria" tvg-logo="https://iptvx.one/picons/mir-belogoria.png" catchup="default" catchup-source="http://server-2.onlinetv-sochi.ru:8080/tv/lime.php?id=152&index-${start}-${offset}.m3u8" catchup-days="168",Мир Белогорья
 #EXTVLCOPT:http-user-agent=smartlabs
