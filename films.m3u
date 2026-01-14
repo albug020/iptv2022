@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+	<head>
+		<style>html {height: 100%; overflow: hidden;} body {height: 100%; margin: 0; padding: 0; overflow: hidden; background:#000; background-color:#000;}</style>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">	 </head>
+	<body>
+	<div id='player-923a82f15fbc04895ef35e4725d57797' data-country-code="ru" style="width: 100%!important; height: 100%!important;"></div>
+
+	
+			<script src="//cdn-t.fotpro135alto.com/content/stream/scripts/player/js/hls.js?v=1"></script>
+			<script src="//cdn-t.fotpro135alto.com/content/stream/scripts/hls.js"></script>
+			<script src="//cdn-t.fotpro135alto.com/content/stream/scripts/p2p-media-loader-core.min.js"></script>
+			<script src="//cdn-t.fotpro135alto.com/content/stream/scripts/p2p-media-loader-hlsjs.min.js"></script>
+		
+	
+
+	<div class="ad adblock rek banner" id="adv"></div>
+	<script src="//cdn-t.fotpro135alto.com/content/stream/scripts/player/js/adblock.js"></script>
+	<script src="//cdn-t.fotpro135alto.com/content/stream/scripts/player/sljsdlgajdslkgjdsalgdslgjdsfewwgopihflhlaglfuywe/desk4.js?=99111"></script>
+	<script >	
+	   	let playerConfigs = {"file":"~9C-9Wc7koBeY1qJfqq9q0cx7wOEEsVNht9jvxbu$9vvufdjQ+v+Gq6V8SgTRXY5K1G+VGlK7XeQPltCUvvVD$yiBtaFlsbWXweumqJ7Alr6GNUCwsAQtrKkVKQaFKBgCs$kLBdLZ+YOwsjwr3Z+KS-JSDBaQM9e1mkIItAgW-qGEHF7$-ExCFMeSmR-GuocN5h1T7GHCt-M9MjAGQW4S6EmJT-ol-evDoyfH0nNHMDs5f+ExvMJflvu6keh3womZAtPE0G++W$NrtJzE9Jfq+A!!","hls":0,"country_list":false,"user_country":"ru","translator":"92","subtitle":"","skip":"0-30","referer":null,"id":"player-923a82f15fbc04895ef35e4725d57797","cuid":"923a82f15fbc04895ef35e4725d57797","key":"i75$DdK1sSdMSxZRjGAe6iHSzLH8qrtY$AALKugHkR3dZcdYT8SLIGbPqNd4mXCb","movie":"923a82f15fbc04895ef35e4725d57797","host":null,"masterId":false,"masterHash":null,"userIp":"91.146.49.252","poster":"","p2p":true,"rek":{"preroll":["https:\/\/cvt-s2.agl007.site\/v\/_jMvMGI3Yzk2MGUtOTA2YyWWY-Q5LTgWNDItZGEwZjZmN-FlYTE1.xml","https:\/\/cvt-s2.agl007.site\/v\/_jMvN-NiYmZhY-QtNjk5ZiWWNDA4L-E2NDgtMmEzMjEWYjVkNjJk.xml"],"midroll":[],"pausebanner":{"key":"a015f39b-6957-4448-b7f3-01fd3e1b7bde","script":"https:\/\/cvt-s2.agl007.site\/o\/s\/7d3ccd69f3aceb9875926654392fa957.js","show":true},"endtag":{"key":"569b91ea-3df2-4c10-babe-dcfd76dcd178","script":"https:\/\/cvt-s2.agl007.site\/o\/s\/7d3ccd69f3aceb9875926654392fa957.js","conf":{"show_time":60,"skip_time":15,"movie_et":"0","banner_show":true,"banner_time":600}},"starttag":[],"start2tag":{"key":"fe74aeb4-d90f-47b2-be72-2c74cfa76887","script":"https:\/\/cvt-s2.agl007.site\/o\/s\/7d3ccd69f3aceb9875926654392fa957.js","conf":{"show_time":60,"skip_time":15,"movie_et":"0","banner_show":true,"banner_time":7}},"start3tag":{"key":"fe74aeb4-d90f-47b2-be72-2c74cfa76887","script":"https:\/\/cvt-s2.agl007.site\/o\/s\/7d3ccd69f3aceb9875926654392fa957.js","conf":{"show_time":60,"skip_time":15,"movie_et":"0","banner_show":true,"banner_time":15}},"pushbanner":[],"qr_code":null,"push_roll":{"time":"","url":""}},"href":"fotpro135alto.com","kp":"5379012","uniq_hash":"54907a681af80bd13178f5cb7b2dce81"};
+	   	var player = new Playerjs(playerConfigs);
+		
+			// 
+			
+		window.pjIsMobile = false;
+
+		if (
+			window.innerWidth < 500 &&
+			(window.pjIsMobile === false || window.pjIsMobile == '+')
+		) {
+			window.pjIsMobile = '-'
+			player.api('design', 2)
+		} else if (
+			window.innerWidth > 500 &&
+			(window.pjIsMobile === false || window.pjIsMobile == '-')
+		) {
+			window.pjIsMobile = '+'
+			player.api('design', 1)
+		}
+	
+
+			function receiveMessage(event) {
+				if (event.data.event === "hdvb_related") {
+					const info = event.data.info;
+
+					if (Array.isArray(info)) {
+						const isValid = info.every(item => 
+							item.hasOwnProperty('title') &&
+							item.hasOwnProperty('poster') &&
+							item.hasOwnProperty('link')
+						);
+
+						if (isValid) {
+							player.api('rel', info)
+						}
+					} 
+				}
+			}
+
+			window.addEventListener('message', receiveMessage, false);
+
+	</script>
+	<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(97451140, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/97451140" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+	<!-- Время выполнения скрипта: 60543000 сек. -->
+	</body> 
+</html>
