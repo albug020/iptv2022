@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U
 #EXTINF:-1 group-title="Общероссийские" tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" catchup="default" catchup-source="http://server-2.onlinetv-sochi.ru:8080/tv/lime.php?id=30&index-${start}-${offset}.m3u8" catchup-days="168", Первый канал HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 YaBrowser/25.6.0.0 Safari/537.36
 https://github.com/albug020/iptv2022/raw/refs/heads/main/channels/1kanalott.m3u8
