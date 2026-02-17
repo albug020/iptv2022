@@ -324,7 +324,7 @@ https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771531520-_4YloRWCOA-vLj6RJ3q
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://iptvx.one/picons/okko-sport.png" group_name="Спорт", Окко.Спорт
 https://ekb-cdp-r2.playfamily.ru/live/cid/364162160-1771529623-pZdTLB5WcqEniOoSQ7SsJQ/m/mshf/3/uni/ba41a258-97e6-4e47-8a93-45860325501d-C5-T105-S102-3305/ba41a258-97e6-4e47-8a93-45860325501d-C5-T105-S102-3305.isml/output.mpd
 #EXTINF:-1 tvg-id="okko-football" tvg-logo="https://iptvx.one/picons/okko-football.png" group_name="Спорт", Окко.Футбол
-https://ekb-cdp-r4.playfamily.ru/live/cid/364162160-1771530917-4yv2UiUJ5AiLNMXv8PDt1w/m/mshf/4/uni/25fa7830-881c-4bd8-a8f2-9d9aa095cede-C5-T106-S102-6906/25fa7830-881c-4bd8-a8f2-9d9aa095cede-C5-T106-S102-6906.isml/output.mpd
+https://ekb-cdp-r2.playfamily.ru/live/cid/364162160-1771530917-4yv2UiUJ5AiLNMXv8PDt1w/m/mshf/4/uni/25fa7830-881c-4bd8-a8f2-9d9aa095cede-C5-T106-S102-6906/25fa7830-881c-4bd8-a8f2-9d9aa095cede-C5-T106-S102-6906.isml/output.mpd
 #EXTINF:-1 tvg-id="okko-sport-2" tvg-logo="https://iptvx.one/picons/okko-sport-2.png" group_name="Спорт", Окко.Прайм Спорт
 https://ekb-cdp-r2.playfamily.ru/live/cid/364162160-1771530274-Fp1xgn6RBW8WLZrEVaz-8w/m/mshf/4/uni/222e6ac7-0349-4dc5-9e80-97c62f624ab5-C5-T106-S101-7968/222e6ac7-0349-4dc5-9e80-97c62f624ab5-C5-T106-S101-7968.isml/output.mpd
 #EXTINF:-1 tvg-id="m1global" tvg-logo="https://iptvx.one/picons/m1global.png" group_name="Спорт", MMA-TV
@@ -356,7 +356,7 @@ https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771523960-nywPDwsS6QTSmAkk_0X
 #EXTINF:-1 tvg-id="fightclub" tvg-logo="https://iptvx.one/picons/fightclub.png" group_name="Спорт", Fight Club
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771530403-4gh8h058MQATrULuFqO3Ug/msk-ix/hls/Fight_Club_HD_72187/playlist.m3u8
 #EXTINF:-1 tvg-id="bubokko-tv" tvg-logo="https://iptvx.one/picons/bubokko-tv.png" group_name="Детские", БубОкко ТВ
-https://ekb-cdp-r2.playfamily.ru/live/cid/364162160-1771522394-pC6K-TPCuKIDhKNWXWGYOA/m/mshf/4/uni/808c1342-e6fc-4fa9-852b-9c8a0e784b27-C5-T7-S02-4384/808c1342-e6fc-4fa9-852b-9c8a0e784b27-C5-T7-S02-4384.isml/output.mpd
+https://ekb-cdp-r5.playfamily.ru/live/cid/364162160-1771522394-pC6K-TPCuKIDhKNWXWGYOA/m/mshf/4/uni/808c1342-e6fc-4fa9-852b-9c8a0e784b27-C5-T7-S02-4384/808c1342-e6fc-4fa9-852b-9c8a0e784b27-C5-T7-S02-4384.isml/output.mpd
 #EXTINF:-1 tvg-id="multimania" tvg-logo="https://iptvx.one/picons/multimania.png" group_name="Детские", Мультиландия
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771530814-GgBGtBYlADVF_bs2Bx46Rw/msk-ix/hls/Multilandia_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" tvg-logo="https://iptvx.one/picons/detsky-mir.png" group_name="Детские", Детский мир
