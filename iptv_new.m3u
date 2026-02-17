@@ -1,477 +1,477 @@
 #EXTM3U x-tvg-url="https://iptvx.one/EPG7"
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group_name="Федеральные", Первый канал
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-name="Федеральные", Первый канал
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771521704-mbWe0P_sawpPheVYLEiiaA/cdnvideo/hls/1tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group_name="Федеральные", Россия 1
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-name="Федеральные", Россия 1
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771524993-QkU8a6Kg2x6I8Qox_3H4ag/msk-ix/hls/Russia1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group_name="Федеральные", Матч! ТВ
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-name="Федеральные", Матч! ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771523960-nywPDwsS6QTSmAkk_0Xojw/msk-ix/hls/Match_OTT_HD_68453/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group_name="Федеральные", НТВ
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-name="Федеральные", НТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771526498-xSoXrwxc6gdeH-FaDVYexA/xxxx/hls/ntv/playlist.m3u8
-#EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group_name="Федеральные", Пятый канал
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-name="Федеральные", Пятый канал
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771522126-MMzQa_TaAlCSsmMvppTUvQ/msk-ix/hls/TRK5_OTT_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group_name="Федеральные", Россия Культура
+#EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-name="Федеральные", Россия Культура
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528836-oNV-4Pw_xLUYrpKqBRTfOQ/msk-ix/hls/Russia_K_SD/playlist.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group_name="Федеральные", Россия-24
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-name="Федеральные", Россия-24
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771530902-mIOMp4QAxre7mT8yt510Bw/msk-ix/hls/Russia24/playlist.m3u8
-#EXTINF:-1 tvg-id="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group_name="Федеральные", Карусель
+#EXTINF:-1 tvg-id="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-name="Федеральные", Карусель
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771524559-_5RF4dHl1kitZvzHV3PoPg/xxxx/hls/karusel/playlist.m3u8
-#EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr.png" group_name="Федеральные", ОТР
+#EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr.png" group-name="Федеральные", ОТР
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771523226-JgguyxUlgFNMzhJVxqQ8YA/mediacdn/hls/otr/playlist.m3u8
-#EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group_name="Федеральные", ТВ Центр
+#EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-name="Федеральные", ТВ Центр
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771530195-isx6rpbps6LLcPNC6NoU-g/xxxx/hls/tvcenter/playlist.m3u8
-#EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png" group_name="Федеральные", Рен ТВ
+#EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png" group-name="Федеральные", Рен ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533425-oWVBnIgnsM2-zmlMvJYz6w/msk-ix/hls/Rentv_HD_OTT/playlist.m3u8
-#EXTINF:-1 tvg-id="spas" tvg-logo="https://iptvx.one/picons/spas.png" group_name="Федеральные", Спас ТВ
+#EXTINF:-1 tvg-id="spas" tvg-logo="https://iptvx.one/picons/spas.png" group-name="Федеральные", Спас ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533790-FfnqV-xs0j3ep8NnqSBKqw/msk-ix/hls/Spas/playlist.m3u8
-#EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group_name="Федеральные", СТС
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-name="Федеральные", СТС
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771531626-W0quHBP9tiEQsoJfYWPiOQ/msk-ix/hls/CTC_HD_OTT/playlist.m3u8
-#EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group_name="Федеральные", Домашний
+#EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-name="Федеральные", Домашний
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528034-OwQxhXHDEvT1x9TbM23vYQ/msk-ix/hls/Dom_HD_OTT/playlist.m3u8
-#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group_name="Федеральные", ТВ-3
+#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-name="Федеральные", ТВ-3
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771520841-FCu2K5Jx6LLHR6wlcKHznQ/msk-ix/hls/TV3_OTT_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group_name="Федеральные", Пятница
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-name="Федеральные", Пятница
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771527988-1DXHri01ZDtmu_61dyfAUg/msk-ix/hls/Pyatnizza_OTT_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group_name="Федеральные", Звезда
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-name="Федеральные", Звезда
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533759-kBFYknhk-l5mV2xbFZW3dg/msk-ix/hls/Zvezda_SD/playlist.m3u8
-#EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group_name="Федеральные", Мир
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-name="Федеральные", Мир
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528547-ToQJi6yMW1NEWV-EWToWQQ/msk-ix/hls/Mir_OTT/playlist.m3u8
-#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group_name="Федеральные", ТНТ
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-name="Федеральные", ТНТ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771534220-Ch3nOs5FLF-OTnct4lIIGA/msk-ix/hls/TNT_OTT_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="muztv" tvg-logo="https://iptvx.one/picons/muztv.png" group_name="Федеральные", Муз-ТВ
+#EXTINF:-1 tvg-id="muztv" tvg-logo="https://iptvx.one/picons/muztv.png" group-name="Федеральные", Муз-ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771529847-Bq_DLHQcGgNeedQlVY3V9w/msk-ix/hls/MuzTV/playlist.m3u8
-#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group_name="Федеральные", Известия
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-name="Федеральные", Известия
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771530729-MDVYQmLpeie6wei2q_mMoQ/msk-ix/hls/Izvestiya_HD_2/playlist.m3u8
-#EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group_name="Федеральные", Суббота!
+#EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-name="Федеральные", Суббота!
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771526928-plwAkQ0k7ItfGZp8CJNokA/msk-ix/hls/Subbota_OTT_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png" group_name="Федеральные", Солнце
+#EXTINF:-1 tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png" group-name="Федеральные", Солнце
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771535291-yEpJW7eAlAfZ52GDD4K_Tg/msk-ix/hls/Disney/playlist.m3u8
-#EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group_name="Федеральные", СТС Love
+#EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-name="Федеральные", СТС Love
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771530453-p8_vQYaATdtQucQ7lf5BBw/msk-ix/hls/CTC_Love_OTT_2/playlist.m3u8
-#EXTINF:-1 tvg-id="che" tvg-logo="https://iptvx.one/picons/che.png" group_name="Федеральные", Че
+#EXTINF:-1 tvg-id="che" tvg-logo="https://iptvx.one/picons/che.png" group-name="Федеральные", Че
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533114-NsAcNrJ58WDqKS5PnPUKNg/msk-ix/hls/Che_OTT_2/playlist.m3u8
-#EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group_name="Федеральные", Ю
+#EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-name="Федеральные", Ю
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533491-AqZQX6eUk6V--iBdH8wzaQ/msk-ix/hls/Yu_OTT/playlist.m3u8
-#EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group_name="Развлекательные", Ю
+#EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-name="Развлекательные", Ю
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533491-AqZQX6eUk6V--iBdH8wzaQ/msk-ix/hls/Yu_OTT/playlist.m3u8
-#EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group_name="Развлекательные", СТС Love
+#EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-name="Развлекательные", СТС Love
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771530453-p8_vQYaATdtQucQ7lf5BBw/msk-ix/hls/CTC_Love_OTT_2/playlist.m3u8
-#EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group_name="Развлекательные", Суббота!
+#EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-name="Развлекательные", Суббота!
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771526928-plwAkQ0k7ItfGZp8CJNokA/msk-ix/hls/Subbota_OTT_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="che" tvg-logo="https://iptvx.one/picons/che.png" group_name="Развлекательные", Че
+#EXTINF:-1 tvg-id="che" tvg-logo="https://iptvx.one/picons/che.png" group-name="Развлекательные", Че
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533114-NsAcNrJ58WDqKS5PnPUKNg/msk-ix/hls/Che_OTT_2/playlist.m3u8
-#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group_name="Развлекательные", ТНТ4
+#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-name="Развлекательные", ТНТ4
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771530062-2USfLhGT-yih51or7ZI3gQ/msk-ix/hls/TNT4_OTT_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="2na2" tvg-logo="https://iptvx.one/picons/2na2.png" group_name="Развлекательные", 2x2
+#EXTINF:-1 tvg-id="2na2" tvg-logo="https://iptvx.one/picons/2na2.png" group-name="Развлекательные", 2x2
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771534118-BQ6gHFYLgAwnvOEC-nl5aQ/msk-ix/hls/2x2_OTT_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="russky-ekstrim" tvg-logo="https://iptvx.one/picons/russky-ekstrim.png" group_name="Развлекательные", Русский экстрим
+#EXTINF:-1 tvg-id="russky-ekstrim" tvg-logo="https://iptvx.one/picons/russky-ekstrim.png" group-name="Развлекательные", Русский экстрим
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771530635-GwUJ8v3kJCQuEA5JdwOO_A/msk-ix/hls/RuExtreme_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="epic" tvg-logo="https://iptvx.one/picons/epic.png" group_name="Развлекательные", Epic
+#EXTINF:-1 tvg-id="epic" tvg-logo="https://iptvx.one/picons/epic.png" group-name="Развлекательные", Epic
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771521591-y5hBX04o1dIN8E8eCQXA2w/msk-ix/hls/Start_Epic/playlist.m3u8
-#EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="https://iptvx.one/picons/oxota-i-rybalka.png" group_name="Развлекательные", Охота и рыбалка
+#EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="https://iptvx.one/picons/oxota-i-rybalka.png" group-name="Развлекательные", Охота и рыбалка
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528184-Rcus0ZCDMk74odUOJnrswQ/msk-ix/hls/Ohota_i_Ribalka_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="avto24" tvg-logo="https://iptvx.one/picons/avto24.png" group_name="Развлекательные", Авто24
+#EXTINF:-1 tvg-id="avto24" tvg-logo="https://iptvx.one/picons/avto24.png" group-name="Развлекательные", Авто24
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771522318-jO4ItC718xl0eNdbYiDBLw/msk-ix/hls/Avto24_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="trace-sport-stars" tvg-logo="https://iptvx.one/picons/trace-sport-stars.png" group_name="Развлекательные", Trace Sport Stars
+#EXTINF:-1 tvg-id="trace-sport-stars" tvg-logo="https://iptvx.one/picons/trace-sport-stars.png" group-name="Развлекательные", Trace Sport Stars
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771530882-mqqkfyYwUiaDR89r--ErxQ/msk-ix/hls/TRACE_SPORTS_INTER_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group_name="Развлекательные", 360
+#EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-name="Развлекательные", 360
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771525160-QcJ-IW4J3Aqq7iRAjTbTRA/msk-ix/hls/360_HD_56496/playlist.m3u8
-#EXTINF:-1 tvg-id="fashion-tv" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group_name="Развлекательные", Fashion TV
+#EXTINF:-1 tvg-id="fashion-tv" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-name="Развлекательные", Fashion TV
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771526237-faN5Mwt-krw_No7jgWZB6A/msk-ix/hls/Fashion_TV_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="eda-hd" tvg-logo="https://iptvx.one/picons/eda-hd.png" group_name="Развлекательные", FoodTime
+#EXTINF:-1 tvg-id="eda-hd" tvg-logo="https://iptvx.one/picons/eda-hd.png" group-name="Развлекательные", FoodTime
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771527320-WmVAGgOGUMGpSlOvI_yM8Q/msk-ix/hls/FOOD_Time_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="drive" tvg-logo="https://iptvx.one/picons/drive.png" group_name="Развлекательные", Драйв
+#EXTINF:-1 tvg-id="drive" tvg-logo="https://iptvx.one/picons/drive.png" group-name="Развлекательные", Драйв
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771526364-W7BVt5w8NElhUSKDE3yrJA/msk-ix/hls/Drive_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://iptvx.one/picons/ntv-style.png" group_name="Развлекательные", НТВ Стиль
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://iptvx.one/picons/ntv-style.png" group-name="Развлекательные", НТВ Стиль
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771534547-dB5RT9XVrAOop-JreH4SVA/msk-ix/hls/NTV_Style/playlist.m3u8
-#EXTINF:-1 tvg-id="big-planet" tvg-logo="https://iptvx.one/picons/big-planet.png" group_name="Развлекательные", Big Planet
+#EXTINF:-1 tvg-id="big-planet" tvg-logo="https://iptvx.one/picons/big-planet.png" group-name="Развлекательные", Big Planet
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771536316-PcFSDBJL97jl4OxW6Yed4Q/msk-ix/hls/BigPlanet_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-logo="https://iptvx.one/picons/russian-extreme-uhd.png" group_name="Развлекательные", Russian Extreme Ultra HD
+#EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-logo="https://iptvx.one/picons/russian-extreme-uhd.png" group-name="Развлекательные", Russian Extreme Ultra HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771526222-TwYkiiEA4Rav8VFc2VqTQQ/msk-ix/hls/Russian_Extreme_TV_Ultra_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="prikluchenia-hd" tvg-logo="https://iptvx.one/picons/prikluchenia-hd.png" group_name="Развлекательные", Приключения HD
+#EXTINF:-1 tvg-id="prikluchenia-hd" tvg-logo="https://iptvx.one/picons/prikluchenia-hd.png" group-name="Развлекательные", Приключения HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771535810-XDIrVENYLzVCXIfBrqmudg/msk-ix/hls/Teleputeshestviya_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="womens-magazine" tvg-logo="https://iptvx.one/picons/womens-magazine.png" group_name="Развлекательные", Женский Журнал
+#EXTINF:-1 tvg-id="womens-magazine" tvg-logo="https://iptvx.one/picons/womens-magazine.png" group-name="Развлекательные", Женский Журнал
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771530798-_za0wU7WNs2dqDXypijGrQ/msk-ix/hls/Womens_Magazine_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png" group_name="Развлекательные", Загородная жизнь
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png" group-name="Развлекательные", Загородная жизнь
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771534528-aad6-EFV5fUe1xC5ecP3Fg/msk-ix/hls/Zagorod_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="pervy-vegetariansky" tvg-logo="https://iptvx.one/picons/pervy-vegetariansky.png" group_name="Развлекательные", Первый вегетарианский
+#EXTINF:-1 tvg-id="pervy-vegetariansky" tvg-logo="https://iptvx.one/picons/pervy-vegetariansky.png" group-name="Развлекательные", Первый вегетарианский
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771531019-Nj1TPCiAmZa03W_U8duJWA/msk-ix/hls/Vegetable_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="muzhskoy" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group_name="Развлекательные", Мужской
+#EXTINF:-1 tvg-id="muzhskoy" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-name="Развлекательные", Мужской
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771520364-4hbaTp9ji6vURnZ7pJPmrw/msk-ix/hls/Muzhskoy_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="https://iptvx.one/picons/galaxy-tv.png" group_name="Развлекательные", Galaxy-TV
+#EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="https://iptvx.one/picons/galaxy-tv.png" group-name="Развлекательные", Galaxy-TV
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771535130-IDb6zxRdrHl11HVlukL3HQ/msk-ix/hls/Galaxy_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-logo="https://iptvx.one/picons/mir-uvlecheniy.png" group_name="Развлекательные", #КтоКуда
+#EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-logo="https://iptvx.one/picons/mir-uvlecheniy.png" group-name="Развлекательные", #КтоКуда
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771523009-tS7BofJocf-298ulVraQug/msk-ix/hls/Kto_Kuda/playlist.m3u8
-#EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://iptvx.one/picons/kvn-tv.png" group_name="Развлекательные", КВН ТВ
+#EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://iptvx.one/picons/kvn-tv.png" group-name="Развлекательные", КВН ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771523723-dQG-IBwgRe88wI0N5CpCeA/msk-ix/hls/KVN_TV/playlist.m3u8
-#EXTINF:-1 tvg-id="world-fashion-channel" tvg-logo="https://iptvx.one/picons/world-fashion-channel.png" group_name="Развлекательные", World Fashion Channel
+#EXTINF:-1 tvg-id="world-fashion-channel" tvg-logo="https://iptvx.one/picons/world-fashion-channel.png" group-name="Развлекательные", World Fashion Channel
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771523699-mfTop3CL41l8fBwWEMyM6g/msk-ix/hls/WFC_2_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="insight-tv-hd" tvg-logo="https://iptvx.one/picons/insight-tv-hd.png" group_name="Развлекательные", Insight TV HD
+#EXTINF:-1 tvg-id="insight-tv-hd" tvg-logo="https://iptvx.one/picons/insight-tv-hd.png" group-name="Развлекательные", Insight TV HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771524130-bBvhAV6i-ayC9Lih6ZR65w/msk-ix/hls/Insight_4K_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="sarafan" tvg-logo="https://iptvx.one/picons/sarafan.png" group_name="Развлекательные", Сарафан
+#EXTINF:-1 tvg-id="sarafan" tvg-logo="https://iptvx.one/picons/sarafan.png" group-name="Развлекательные", Сарафан
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771520494-V10TddYRF8hf0CjBHSvcBg/msk-ix/hls/SarafanSD/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group_name="Развлекательные", НТВ Право
+#EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-name="Развлекательные", НТВ Право
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771532074-NAFB1twwQQGUWzaH-oRuuQ/msk-ix/hls/NTV_Pravo/playlist.m3u8
-#EXTINF:-1 tvg-id="tochka-otryva" tvg-logo="https://iptvx.one/picons/tochka-otryva.png" group_name="Развлекательные", Точка отрыва
+#EXTINF:-1 tvg-id="tochka-otryva" tvg-logo="https://iptvx.one/picons/tochka-otryva.png" group-name="Развлекательные", Точка отрыва
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771527816-36Bg3pVO3Nj4X6PO2zbjyQ/msk-ix/hls/Tochka_Otriva_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="myy" tvg-logo="https://iptvx.one/picons/myy.png" group_name="Развлекательные", МЫ
+#EXTINF:-1 tvg-id="myy" tvg-logo="https://iptvx.one/picons/myy.png" group-name="Развлекательные", МЫ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771536066-8izjtj4dunMTusR2mbrJsQ/msk-ix/hls/We_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="belarus24" tvg-logo="https://iptvx.one/picons/belarus24.png" group_name="Развлекательные", Беларусь 24
+#EXTINF:-1 tvg-id="belarus24" tvg-logo="https://iptvx.one/picons/belarus24.png" group-name="Развлекательные", Беларусь 24
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533599-1QUrB6irdOiV5-8lfFy--g/msk-ix/hls/Belarus24_SD/playlist.m3u8
-#EXTINF:-1 tvg-id="okko-tv" tvg-logo="https://iptvx.one/picons/okko-tv.png" group_name="Фильмы и сериалы", Okko TV
-https://ekb-cdp-r5.playfamily.ru/live/cid/364162160-1771522940-DTghcNz6FHg6V8820UkxUQ/m/mshf/4/uni/f24eb142-0bbe-4ba2-b540-722eefc775c2-C5-T7-S01-5347/f24eb142-0bbe-4ba2-b540-722eefc775c2-C5-T7-S01-5347.isml/output.mpd
-#EXTINF:-1 tvg-id="tvxxi" tvg-logo="https://iptvx.one/picons/tvxxi.png" group_name="Фильмы и сериалы", TV XXI
+#EXTINF:-1 tvg-id="okko-tv" tvg-logo="https://iptvx.one/picons/okko-tv.png" group-name="Фильмы и сериалы", Okko TV
+https://ekb-cdp-r3.playfamily.ru/live/cid/364162160-1771522940-DTghcNz6FHg6V8820UkxUQ/m/mshf/4/uni/f24eb142-0bbe-4ba2-b540-722eefc775c2-C5-T7-S01-5347/f24eb142-0bbe-4ba2-b540-722eefc775c2-C5-T7-S01-5347.isml/output.mpd
+#EXTINF:-1 tvg-id="tvxxi" tvg-logo="https://iptvx.one/picons/tvxxi.png" group-name="Фильмы и сериалы", TV XXI
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771520321-wbW6uNGNvNPqeLUbPdGnIA/msk-ix/hls/TV21_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="sov-kinklass-hd" tvg-logo="https://iptvx.one/picons/sov-kinklass-hd.png" group_name="Фильмы и сериалы", Советская киноклассика HD
+#EXTINF:-1 tvg-id="sov-kinklass-hd" tvg-logo="https://iptvx.one/picons/sov-kinklass-hd.png" group-name="Фильмы и сериалы", Советская киноклассика HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771521195-oqZlVYGdMyvswH2DyI4R0g/msk-ix/hls/Soviet_Kinoklassika_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group_name="Фильмы и сериалы", viju TV1000
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-name="Фильмы и сериалы", viju TV1000
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771527389-TFKenWogIo_AfkJAGCgkvg/msk-ix/hls/TV1000_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="khit-hd" tvg-logo="https://iptvx.one/picons/khit.png" group_name="Фильмы и сериалы", Хит HD
+#EXTINF:-1 tvg-id="khit-hd" tvg-logo="https://iptvx.one/picons/khit.png" group-name="Фильмы и сериалы", Хит HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771524185-TDeTE6BlGiguPXl3u_qCbg/msk-ix/hls/Hit_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group_name="Фильмы и сериалы", Любимое кино
+#EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-name="Фильмы и сериалы", Любимое кино
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771534411-hy0qUOR_XL2jGiOL9f7_IQ/msk-ix/hls/Lubimoe_Kino_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="mir-seriala" tvg-logo="https://iptvx.one/picons/mir-seriala.png" group_name="Фильмы и сериалы", Мир сериала HD
+#EXTINF:-1 tvg-id="mir-seriala" tvg-logo="https://iptvx.one/picons/mir-seriala.png" group-name="Фильмы и сериалы", Мир сериала HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533328-6Mqwfuzo2X4nukLZJeSD0A/msk-ix/hls/Mir_Seriala_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="patriot" tvg-logo="https://iptvx.one/picons/patriot.png" group_name="Фильмы и сериалы", Патриот
+#EXTINF:-1 tvg-id="patriot" tvg-logo="https://iptvx.one/picons/patriot.png" group-name="Фильмы и сериалы", Патриот
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533784-ZdqTn_RjYhCoKxL3l4HD2w/msk-ix/hls/Patriot/playlist.m3u8
-#EXTINF:-1 tvg-id="kinomiks" tvg-logo="https://iptvx.one/picons/kinomiks.png" group_name="Фильмы и сериалы", Киномикс
+#EXTINF:-1 tvg-id="kinomiks" tvg-logo="https://iptvx.one/picons/kinomiks.png" group-name="Фильмы и сериалы", Киномикс
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771525760-MIh6qofWxbCeReb9oQVUYw/msk-ix/hls/Kinomiks_HD_70667/playlist.m3u8
-#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png" group_name="Фильмы и сериалы", Наше новое кино
+#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png" group-name="Фильмы и сериалы", Наше новое кино
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771523663-Ai4iFVG44BKVkFp_qVlRMA/msk-ix/hls/Nashe_Novoe_Kino_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://iptvx.one/picons/viju-tv1000-novella.png" group_name="Фильмы и сериалы", viju TV1000 Новелла
+#EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://iptvx.one/picons/viju-tv1000-novella.png" group-name="Фильмы и сериалы", viju TV1000 Новелла
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771534772-GHqmYQZILbrSoP5pbhWGVw/msk-ix/hls/viju_TV1000_Novella_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://iptvx.one/picons/blokbaster.png" group_name="Фильмы и сериалы", Блокбастер HD
+#EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://iptvx.one/picons/blokbaster.png" group-name="Фильмы и сериалы", Блокбастер HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533500-HkUQKUw9zrSf5H634KER1g/msk-ix/hls/Blockbuster_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="dorama" tvg-logo="https://iptvx.one/picons/dorama.png" group_name="Фильмы и сериалы", Дорама
+#EXTINF:-1 tvg-id="dorama" tvg-logo="https://iptvx.one/picons/dorama.png" group-name="Фильмы и сериалы", Дорама
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771532284-N9Q0wxpQu0z5lnvT0NxfnA/msk-ix/hls/Dorama_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group_name="Фильмы и сериалы", Мосфильм. Золотая коллекция
+#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-name="Фильмы и сериалы", Мосфильм. Золотая коллекция
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771522668-oSDFY3i34J-iUZ3q3mdM8A/msk-ix/hls/Mosfilm/playlist.m3u8
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group_name="Фильмы и сериалы", viju TV1000 Русское
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-name="Фильмы и сериалы", viju TV1000 Русское
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771527856-iqIk5rsK_y7o8u1yWv2tfQ/msk-ix/hls/TV1000_Rus_Kino_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group_name="Фильмы и сериалы", Еврокино
+#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-name="Фильмы и сериалы", Еврокино
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771535157-gbOpsvtha4XzrEYnUbYArQ/msk-ix/hls/Evrokino_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group_name="Фильмы и сериалы", Кино ТВ
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-name="Фильмы и сериалы", Кино ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771530987-6c80wvDdPeo0pG-z94vV_g/msk-ix/hls/KINOTV_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="lavstori-hd" tvg-logo="https://iptvx.one/picons/lavstori-hd.png" group_name="Фильмы и сериалы", Лавстори HD
+#EXTINF:-1 tvg-id="lavstori-hd" tvg-logo="https://iptvx.one/picons/lavstori-hd.png" group-name="Фильмы и сериалы", Лавстори HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771531317-luT9d5ItWLV0thyj31I2ag/msk-ix/hls/Lovestory_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png" group_name="Фильмы и сериалы", Комедия
+#EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png" group-name="Фильмы и сериалы", Комедия
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771525694-CIsEyKyXHoBNaJUkrqOB4g/msk-ix/hls/Komediya_SD/playlist.m3u8
-#EXTINF:-1 tvg-id="flixsnip" tvg-logo="https://iptvx.one/picons/flixsnip.png" group_name="Фильмы и сериалы", FlixSnip
+#EXTINF:-1 tvg-id="flixsnip" tvg-logo="https://iptvx.one/picons/flixsnip.png" group-name="Фильмы и сериалы", FlixSnip
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533968-HC7TfzRgwqTiqmihQCfTuw/msk-ix/hls/Flix_Snip_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group_name="Фильмы и сериалы", НТВ-Хит
+#EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-name="Фильмы и сериалы", НТВ-Хит
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771527402-UtmFfU7Sz0cWB4DJ-Ykdgw/msk-ix/hls/NTV_HIT_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group_name="Фильмы и сериалы", Иллюзион+
+#EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group-name="Фильмы и сериалы", Иллюзион+
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771532523-1l6-pQc8Wux5khvU_KxCRQ/msk-ix/hls/Illuzion_Plus_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="kinoseria" tvg-logo="https://iptvx.one/picons/kinoseria.png" group_name="Фильмы и сериалы", Киносерия
+#EXTINF:-1 tvg-id="kinoseria" tvg-logo="https://iptvx.one/picons/kinoseria.png" group-name="Фильмы и сериалы", Киносерия
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771522930-fZt-dLcPiJx18S_c0ER0Pw/msk-ix/hls/Kinoseriya_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://iptvx.one/picons/russky-bestseller.png" group_name="Фильмы и сериалы", Русский бестселлер
+#EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://iptvx.one/picons/russky-bestseller.png" group-name="Фильмы и сериалы", Русский бестселлер
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771526670-4Ra1R0s7wZBYAQOoKEWiyQ/msk-ix/hls/RusskieBestseller_SD/playlist.m3u8
-#EXTINF:-1 tvg-id="start-air" tvg-logo="https://iptvx.one/picons/start-air.png" group_name="Фильмы и сериалы", Start Air
+#EXTINF:-1 tvg-id="start-air" tvg-logo="https://iptvx.one/picons/start-air.png" group-name="Фильмы и сериалы", Start Air
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771526999-3Q-l2voBk3iPGhvV9BTDVw/msk-ix/hls/START_Air_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group_name="Фильмы и сериалы", viju TV1000 Action
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-name="Фильмы и сериалы", viju TV1000 Action
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771531642-61UtVxQnh7EcasDSjp-Ykg/msk-ix/hls/TV1000_Action_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="nash-kinopokaz-hd" tvg-logo="https://iptvx.one/picons/nash-kinopokaz.png" group_name="Фильмы и сериалы", Наш Кинопоказ HD
+#EXTINF:-1 tvg-id="nash-kinopokaz-hd" tvg-logo="https://iptvx.one/picons/nash-kinopokaz.png" group-name="Фильмы и сериалы", Наш Кинопоказ HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771536279-4GSqMlIr4VRZXUFxdanbkA/msk-ix/hls/Nash_Kinopokaz_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://iptvx.one/picons/russky-roman.png" group_name="Фильмы и сериалы", Русский роман
+#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-name="Фильмы и сериалы", Русский роман
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771526605-Q1Yd5RksO5LlWVsBGc7oag/msk-ix/hls/RusskiyRoman_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="indiyskoe-kino" tvg-logo="https://iptvx.one/picons/indijskoe-kino.png" group_name="Фильмы и сериалы", Индийское кино
+#EXTINF:-1 tvg-id="indiyskoe-kino" tvg-logo="https://iptvx.one/picons/indijskoe-kino.png" group-name="Фильмы и сериалы", Индийское кино
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771534528-NfI8VkFpex6NkPG3ndSZ-w/msk-ix/hls/Indiyskoe_kino/playlist.m3u8
-#EXTINF:-1 tvg-id="fanhd" tvg-logo="https://iptvx.one/picons/fanhd.png" group_name="Фильмы и сериалы", FAN
+#EXTINF:-1 tvg-id="fanhd" tvg-logo="https://iptvx.one/picons/fanhd.png" group-name="Фильмы и сериалы", FAN
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771527889-9yuVeM2qzpqg7KmVHevZOA/msk-ix/hls/FAN_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://iptvx.one/picons/kinokomedia.png" group_name="Фильмы и сериалы", Кинокомедия
+#EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-name="Фильмы и сериалы", Кинокомедия
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771536075-hpunLXcsYpvCW3ONPgreSg/msk-ix/hls/Kino_Comedy_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="scream" tvg-logo="https://iptvx.one/picons/scream.png" group_name="Фильмы и сериалы", Scream HD
+#EXTINF:-1 tvg-id="scream" tvg-logo="https://iptvx.one/picons/scream.png" group-name="Фильмы и сериалы", Scream HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771530655-8DHvp_itvvebJfRZu3eStQ/msk-ix/hls/Scream_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="ultra-hd-cinema" tvg-logo="https://iptvx.one/picons/ultra-hd-cinema.png" group_name="Фильмы и сериалы", Ultra HD Cinema
+#EXTINF:-1 tvg-id="ultra-hd-cinema" tvg-logo="https://iptvx.one/picons/ultra-hd-cinema.png" group-name="Фильмы и сериалы", Ultra HD Cinema
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528180-McJy2fz8TbiBNzgm8A0kJg/msk-ix/hls/Russian_Extreme_TV_Ultra_HD_Cinema/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://iptvx.one/picons/ntv-serial.png" group_name="Фильмы и сериалы", НТВ Сериал
+#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-name="Фильмы и сериалы", НТВ Сериал
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533400-o6yYypwhgKQQq9Jv5bSLEg/msk-ix/hls/NTV_Serial/playlist.m3u8
-#EXTINF:-1 tvg-id="pro-lyubov" tvg-logo="https://iptvx.one/picons/pro-lyubov.png" group_name="Фильмы и сериалы", Про Любовь HD
+#EXTINF:-1 tvg-id="pro-lyubov" tvg-logo="https://iptvx.one/picons/pro-lyubov.png" group-name="Фильмы и сериалы", Про Любовь HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771526098-jupuwKLwkssvT-ikL14-9g/msk-ix/hls/Pro_Lubov_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="plan-b" tvg-logo="https://iptvx.one/picons/plan-b.png" group_name="Фильмы и сериалы", Plan B
+#EXTINF:-1 tvg-id="plan-b" tvg-logo="https://iptvx.one/picons/plan-b.png" group-name="Фильмы и сериалы", Plan B
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771523620-Dmr5M-0xxxoGJ80mlaue0g/msk-ix/hls/Plan_B_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="suspense" tvg-logo="https://iptvx.one/picons/suspense.png" group_name="Фильмы и сериалы", Suspense
+#EXTINF:-1 tvg-id="suspense" tvg-logo="https://iptvx.one/picons/suspense.png" group-name="Фильмы и сериалы", Suspense
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528235-QD2d5Xh6Yy8XWJ6Otg4_lw/msk-ix/hls/Suspenso_HD_71640/playlist.m3u8
-#EXTINF:-1 tvg-id="romance" tvg-logo="https://iptvx.one/picons/romance.png" group_name="Фильмы и сериалы", Romance
+#EXTINF:-1 tvg-id="romance" tvg-logo="https://iptvx.one/picons/romance.png" group-name="Фильмы и сериалы", Romance
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771535267-40j0H-mNMHEtSraAoH6NTA/msk-ix/hls/Romance_HD_71638/playlist.m3u8
-#EXTINF:-1 tvg-id="zee-tv" tvg-logo="https://iptvx.one/picons/zee-tv.png" group_name="Фильмы и сериалы", Индия
+#EXTINF:-1 tvg-id="zee-tv" tvg-logo="https://iptvx.one/picons/zee-tv.png" group-name="Фильмы и сериалы", Индия
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771532287-_3AqgYqxfY9wYRWOWhyMUA/msk-ix/hls/India_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://iptvx.one/picons/kinouzhas.png" group_name="Фильмы и сериалы", Киноужас
+#EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://iptvx.one/picons/kinouzhas.png" group-name="Фильмы и сериалы", Киноужас
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528565-yqi7kCVG2y2rpXwYm3qELg/msk-ix/hls/Kinouzhas/playlist.m3u8
-#EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group_name="Фильмы и сериалы", Русский детектив
+#EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group-name="Фильмы и сериалы", Русский детектив
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528063-CVa0VsfixTdC6Z1Hwl92gQ/msk-ix/hls/RusskyiDetektiv_SD/playlist.m3u8
-#EXTINF:-1 tvg-id="kinopokaz-hd" tvg-logo="https://iptvx.one/picons/kinopokaz.png" group_name="Фильмы и сериалы", Кинопоказ HD
+#EXTINF:-1 tvg-id="kinopokaz-hd" tvg-logo="https://iptvx.one/picons/kinopokaz.png" group-name="Фильмы и сериалы", Кинопоказ HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771521468-tb9aExQUNQqv3ef1mToCNw/msk-ix/hls/KINOPOKAZ_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="shot-tv" tvg-logo="https://iptvx.one/picons/shot-tv.png" group_name="Фильмы и сериалы", Shot TV
+#EXTINF:-1 tvg-id="shot-tv" tvg-logo="https://iptvx.one/picons/shot-tv.png" group-name="Фильмы и сериалы", Shot TV
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771527227-ZNNIJOZLkt20A7TeE_FPAw/msk-ix/hls/Shot_TV_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group_name="Фильмы и сериалы", Русский иллюзион
+#EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-name="Фильмы и сериалы", Русский иллюзион
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771520931-52sOrgO12SUe0-wwUR854g/msk-ix/hls/Russian_Illusion_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="start-world" tvg-logo="https://iptvx.one/picons/start-world.png" group_name="Фильмы и сериалы", Start World
+#EXTINF:-1 tvg-id="start-world" tvg-logo="https://iptvx.one/picons/start-world.png" group-name="Фильмы и сериалы", Start World
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528407-SAFAYUNFBqHSdf-Tzv1_NA/msk-ix/hls/START_World_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group_name="Фильмы и сериалы", Ретро
+#EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-name="Фильмы и сериалы", Ретро
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771522133-_fB1fmer4HRPHK_4jEKj2Q/msk-ix/hls/Retro_SD/playlist.m3u8
-#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group_name="Фильмы и сериалы", Настоящее страшное ТВ
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-name="Фильмы и сериалы", Настоящее страшное ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771535238-_YvWWWP20m-LAG9_jfRlFA/msk-ix/hls/NSTV_SD/playlist.m3u8
-#EXTINF:-1 tvg-id="rodnoe-kino" tvg-logo="https://iptvx.one/picons/rodnoe-kino.png" group_name="Фильмы и сериалы", Родное кино
+#EXTINF:-1 tvg-id="rodnoe-kino" tvg-logo="https://iptvx.one/picons/rodnoe-kino.png" group-name="Фильмы и сериалы", Родное кино
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771526594-92-dXPTeMln71eXzbMcV3g/msk-ix/hls/Rodnoe_Kino/playlist.m3u8
-#EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://iptvx.one/picons/cinema-ru.png" group_name="Фильмы и сериалы", Cinema
+#EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-name="Фильмы и сериалы", Cinema
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528137-vhAnRkj2SPsBKLqHkCypVw/msk-ix/hls/Cinema_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="kamedi" tvg-logo="https://iptvx.one/picons/kamedi.png" group_name="Фильмы и сериалы", Камеди HD
+#EXTINF:-1 tvg-id="kamedi" tvg-logo="https://iptvx.one/picons/kamedi.png" group-name="Фильмы и сериалы", Камеди HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771527873-nlZXX7x2PEKpIn1OI9z0zA/msk-ix/hls/Comedy_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="nashe-muzhskoe-hd" tvg-logo="https://iptvx.one/picons/nashe-muzhskoe-hd.png" group_name="Фильмы и сериалы", Наше Мужское HD
+#EXTINF:-1 tvg-id="nashe-muzhskoe-hd" tvg-logo="https://iptvx.one/picons/nashe-muzhskoe-hd.png" group-name="Фильмы и сериалы", Наше Мужское HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771524926-QwgUVNwuUwzMWeiQxyR8iQ/msk-ix/hls/Nashe_Muzhskoe_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-logo="https://iptvx.one/picons/viju-tv1000-romantica.png" group_name="Фильмы и сериалы", viju TV1000 romantica
+#EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-logo="https://iptvx.one/picons/viju-tv1000-romantica.png" group-name="Фильмы и сериалы", viju TV1000 romantica
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771520303-hWu56meDpw_Yy-2zBn8k3Q/msk-ix/hls/viju_TV1000_Romantica_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="rus-istoria" tvg-logo="https://iptvx.one/picons/rus-istoria.png" group_name="Фильмы и сериалы", Русская история
+#EXTINF:-1 tvg-id="rus-istoria" tvg-logo="https://iptvx.one/picons/rus-istoria.png" group-name="Фильмы и сериалы", Русская история
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771531520-_4YloRWCOA-vLj6RJ3qNWQ/mediacdn/hls/russhistory/playlist.m3u8
-#EXTINF:-1 tvg-id="kinoliving" tvg-logo="https://iptvx.one/picons/kinoliving.png" group_name="Фильмы и сериалы", KinoLiving
+#EXTINF:-1 tvg-id="kinoliving" tvg-logo="https://iptvx.one/picons/kinoliving.png" group-name="Фильмы и сериалы", KinoLiving
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533044-0a9-e2z9AlDr9mqSoFBuUg/msk-ix/hls/Kinoliving_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="saga-tv" tvg-logo="https://iptvx.one/picons/saga-tv.png" group_name="Фильмы и сериалы", Saga TV
+#EXTINF:-1 tvg-id="saga-tv" tvg-logo="https://iptvx.one/picons/saga-tv.png" group-name="Фильмы и сериалы", Saga TV
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771529562-idMQ_E5QmVYR-ghMdaXuoA/msk-ix/hls/Saga_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="denpobedy" tvg-logo="https://iptvx.one/picons/denpobedy.png" group_name="Познавательные", День Победы HD
+#EXTINF:-1 tvg-id="denpobedy" tvg-logo="https://iptvx.one/picons/denpobedy.png" group-name="Познавательные", День Победы HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771531005-7Z4BJWotcsNJL0_Iql42DA/msk-ix/hls/Den_Pobedy_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="travel-adventure" tvg-logo="https://iptvx.one/picons/travel-adventure.png" group_name="Познавательные", Travel+Adventure
+#EXTINF:-1 tvg-id="travel-adventure" tvg-logo="https://iptvx.one/picons/travel-adventure.png" group-name="Познавательные", Travel+Adventure
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533493-si600Ayq6swAjouGtF7g0w/msk-ix/hls/Travel_Adventure_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="the-explorers" tvg-logo="https://iptvx.one/picons/the-explorers.png" group_name="Познавательные", The Explorers
+#EXTINF:-1 tvg-id="the-explorers" tvg-logo="https://iptvx.one/picons/the-explorers.png" group-name="Познавательные", The Explorers
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771535599-4qZ_ukULbSr1OCGJ2JtK_A/mediacdn/hls/explorers/playlist.m3u8
-#EXTINF:-1 tvg-id="kuxnia-tv" tvg-logo="https://iptvx.one/picons/kuxnia-tv.png" group_name="Познавательные", Кухня ТВ
+#EXTINF:-1 tvg-id="kuxnia-tv" tvg-logo="https://iptvx.one/picons/kuxnia-tv.png" group-name="Познавательные", Кухня ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771524291-9PbDbppx967Srnu8C0JGkw/msk-ix/hls/Kuhnya_TV_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="zootv" tvg-logo="https://iptvx.one/picons/zootv.png" group_name="Познавательные", Зоо ТВ
+#EXTINF:-1 tvg-id="zootv" tvg-logo="https://iptvx.one/picons/zootv.png" group-name="Познавательные", Зоо ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771535763-ETmMq7hbe9t4e8jR8TumBQ/msk-ix/hls/ZOO_TV_HD_72002/playlist.m3u8
-#EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://iptvx.one/picons/kosmichesky.png" group_name="Познавательные", Первый Космический HD
+#EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://iptvx.one/picons/kosmichesky.png" group-name="Познавательные", Первый Космический HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528464-9ngR_E9NpcfRvBUrUNty0w/msk-ix/hls/1_KOSMICHESKIY/playlist.m3u8
-#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group_name="Познавательные", Моя Планета
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-name="Познавательные", Моя Планета
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771522875-xhoMGB4hhH-xt5mNG0VsgA/msk-ix/hls/MoyaPlaneta_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov-hd.png" group_name="Познавательные", Охотник и рыболов HD
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov-hd.png" group-name="Познавательные", Охотник и рыболов HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771522006-VhcNONMX-TABk4ra9sQV8A/msk-ix/hls/OHOTNIK_I_RYBOLOV_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="texno-24" tvg-logo="https://iptvx.one/picons/texno-24.png" group_name="Познавательные", Т24
+#EXTINF:-1 tvg-id="texno-24" tvg-logo="https://iptvx.one/picons/texno-24.png" group-name="Познавательные", Т24
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771534561-3ZsPYU5VxrmzgHXyKP5oHA/msk-ix/hls/Tehno24/playlist.m3u8
-#EXTINF:-1 tvg-id="istoria" tvg-logo="https://iptvx.one/picons/istoria.png" group_name="Познавательные", История
+#EXTINF:-1 tvg-id="istoria" tvg-logo="https://iptvx.one/picons/istoria.png" group-name="Познавательные", История
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771521574-SmEzAWKEMECIUlnPV-3zfQ/msk-ix/hls/Istorya_SD/playlist.m3u8
-#EXTINF:-1 tvg-id="ocean-tv" tvg-logo="https://iptvx.one/picons/ocean-tv.png" group_name="Познавательные", Ocean TV
+#EXTINF:-1 tvg-id="ocean-tv" tvg-logo="https://iptvx.one/picons/ocean-tv.png" group-name="Познавательные", Ocean TV
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771524167-aajYc1RBWNTobZ0fLnDMcQ/msk-ix/hls/OCEAN_TV_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://iptvx.one/picons/arsenaltv.png" group_name="Познавательные", Арсенал HD
+#EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://iptvx.one/picons/arsenaltv.png" group-name="Познавательные", Арсенал HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771524074-Z4iXuV9dOzWWZIEYapMJuA/msk-ix/hls/Arsenal_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="da-vinci" tvg-logo="https://iptvx.one/picons/da-vinci.png" group_name="Познавательные", Da Vinci
+#EXTINF:-1 tvg-id="da-vinci" tvg-logo="https://iptvx.one/picons/da-vinci.png" group-name="Познавательные", Da Vinci
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771536236-smPdirHIZo6jB1prbE56IA/msk-ix/hls/Da_Vinci/playlist.m3u8
-#EXTINF:-1 tvg-id="eda-hd" tvg-logo="https://iptvx.one/picons/eda-hd.png" group_name="Познавательные", Еда HD
+#EXTINF:-1 tvg-id="eda-hd" tvg-logo="https://iptvx.one/picons/eda-hd.png" group-name="Познавательные", Еда HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771525260-E9pp_9HwB3_2det8qcuQbQ/msk-ix/hls/EDA_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="rtg-hd" tvg-logo="https://iptvx.one/picons/rtg-hd.png" group_name="Познавательные", RTG HD
+#EXTINF:-1 tvg-id="rtg-hd" tvg-logo="https://iptvx.one/picons/rtg-hd.png" group-name="Познавательные", RTG HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771520863-ex8N_Mpk8tDk1NyffRAWXg/msk-ix/hls/RTG_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" group_name="Познавательные", viju History
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-name="Познавательные", viju History
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771522669-Qqiz7R3ryfIszbFK1ad46Q/msk-ix/hls/Viasat_History_ad_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-logo="https://iptvx.one/picons/domashnie-zhivotnye.png" group_name="Познавательные", Домашние животные
+#EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-logo="https://iptvx.one/picons/domashnie-zhivotnye.png" group-name="Познавательные", Домашние животные
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771532859-CZkwhSFOuN1yjO0reodWlQ/msk-ix/hls/Dom_Zhiv/playlist.m3u8
-#EXTINF:-1 tvg-id="uspex" tvg-logo="https://iptvx.one/picons/uspex.png" group_name="Познавательные", Успех ТВ
+#EXTINF:-1 tvg-id="uspex" tvg-logo="https://iptvx.one/picons/uspex.png" group-name="Познавательные", Успех ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771531898-WpQzsRA48gIjU3poQsNT0A/msk-ix/hls/Uspeh/playlist.m3u8
-#EXTINF:-1 tvg-id="ege-tv" tvg-logo="https://iptvx.one/picons/ege-tv.png" group_name="Познавательные", ЕГЭ
+#EXTINF:-1 tvg-id="ege-tv" tvg-logo="https://iptvx.one/picons/ege-tv.png" group-name="Познавательные", ЕГЭ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771531432-mog6YIHIMvjV6mdQsHhhGw/msk-ix/hls/EGE/playlist.m3u8
-#EXTINF:-1 tvg-id="nauka" tvg-logo="https://iptvx.one/picons/nauka.png" group_name="Познавательные", Наука
+#EXTINF:-1 tvg-id="nauka" tvg-logo="https://iptvx.one/picons/nauka.png" group-name="Познавательные", Наука
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771520412-QVE-cTGvVAZedyGryv-Hsw/msk-ix/hls/Nauka_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://iptvx.one/picons/avto-plus.png" group_name="Познавательные", Авто Плюс
+#EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://iptvx.one/picons/avto-plus.png" group-name="Познавательные", Авто Плюс
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771532980-qYXk-iSXQ5pYssxVx2BASw/msk-ix/hls/Auto_Plus_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://iptvx.one/picons/nostalgia.png" group_name="Познавательные", Ностальгия
+#EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://iptvx.one/picons/nostalgia.png" group-name="Познавательные", Ностальгия
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771534437-95b9thktBMoTnKO15PCk0g/msk-ix/hls/Nostalgya/playlist.m3u8
-#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" group_name="Познавательные", Живая планета
+#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" group-name="Познавательные", Живая планета
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771532721-sW2sfPjMp5RSXmeMhUINoQ/msk-ix/hls/ZhjivayPlaneta_SD/playlist.m3u8
-#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group_name="Познавательные", viju Explore
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-name="Познавательные", viju Explore
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771532762-iPe5KPzf71g73BMBTznUgQ/msk-ix/hls/Viasat_Explore_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://iptvx.one/picons/zvezda-plus.png" group_name="Познавательные", Звезда Плюс
+#EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://iptvx.one/picons/zvezda-plus.png" group-name="Познавательные", Звезда Плюс
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528939-qKpqgHaEAvG-xpr5hSjm_Q/msk-ix/hls/Zvezda/playlist.m3u8
-#EXTINF:-1 tvg-id="teleputeshestvia" tvg-logo="https://iptvx.one/picons/teleputeshestvia.png" group_name="Познавательные", Телепутешествия
+#EXTINF:-1 tvg-id="teleputeshestvia" tvg-logo="https://iptvx.one/picons/teleputeshestvia.png" group-name="Познавательные", Телепутешествия
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528779-x6IQEr1obfP8jbQc8OEkLw/msk-ix/hls/Teleputeshestviya/playlist.m3u8
-#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group_name="Познавательные", viju Nature
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-name="Познавательные", viju Nature
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771535516-PmdIPIZa1LMRTVa3tEDGYQ/msk-ix/hls/Viasat_Nature_ad_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group_name="Познавательные", Неизвестная Россия HD
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-name="Познавательные", Неизвестная Россия HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771531947-6lVfEv4E6uBt-Hi6twErZg/msk-ix/hls/UnknownRussia_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="gosfilmofond-mv" tvg-logo="https://iptvx.one/picons/gosfilmofond-mv.png" group_name="Познавательные", Госфильмофонд. Машина времени
+#EXTINF:-1 tvg-id="gosfilmofond-mv" tvg-logo="https://iptvx.one/picons/gosfilmofond-mv.png" group-name="Познавательные", Госфильмофонд. Машина времени
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771524747-tN5XL9nPYx0p4s5qH_Ca9g/msk-ix/hls/Mashina_Vremeni/playlist.m3u8
-#EXTINF:-1 tvg-id="zoopark" tvg-logo="https://iptvx.one/picons/zoopark.png" group_name="Познавательные", ZooПарк
+#EXTINF:-1 tvg-id="zoopark" tvg-logo="https://iptvx.one/picons/zoopark.png" group-name="Познавательные", ZooПарк
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771525148-bPdbtmrKzPTV41PSsap9fA/msk-ix/hls/Zoopark_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="zhivi" tvg-logo="https://iptvx.one/picons/zhivi.png" group_name="Познавательные", Живи
+#EXTINF:-1 tvg-id="zhivi" tvg-logo="https://iptvx.one/picons/zhivi.png" group-name="Познавательные", Живи
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771525918-HM8S1H_2PnJ0h1L_YJE8PA/msk-ix/hls/JIVI_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" group_name="Познавательные", Рыболов
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" group-name="Познавательные", Рыболов
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771523239-XmsWgZKUnonLGAIs_U9YgA/msk-ix/hls/RYBOLOV_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="kongresstv" tvg-logo="https://iptvx.one/picons/kongresstv.png" group_name="Познавательные", Конгресс ТВ
+#EXTINF:-1 tvg-id="kongresstv" tvg-logo="https://iptvx.one/picons/kongresstv.png" group-name="Познавательные", Конгресс ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533042-KgChQCxrxQe_AXSJxo1v1g/msk-ix/hls/CongressTV_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="hd-life" tvg-logo="https://iptvx.one/picons/hdl.png" group_name="Познавательные", Точка.РФ
+#EXTINF:-1 tvg-id="hd-life" tvg-logo="https://iptvx.one/picons/hdl.png" group-name="Познавательные", Точка.РФ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528398-wVS-rmSfCVx3z5exj0WdAQ/msk-ix/hls/HD_Life_70677/playlist.m3u8
-#EXTINF:-1 tvg-id="voprosy-i-otvety" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png" group_name="Познавательные", Вопросы и ответы
+#EXTINF:-1 tvg-id="voprosy-i-otvety" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png" group-name="Познавательные", Вопросы и ответы
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771534929-cy2U-TTDTgU4WqPbrgQpig/msk-ix/hls/Voprosi_i_otveti/playlist.m3u8
-#EXTINF:-1 tvg-id="kto-est-kto" tvg-logo="https://iptvx.one/picons/kto-est-kto.png" group_name="Познавательные", Кто есть кто
+#EXTINF:-1 tvg-id="kto-est-kto" tvg-logo="https://iptvx.one/picons/kto-est-kto.png" group-name="Познавательные", Кто есть кто
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771522661-Oj5eKPJmr_zDx_jOxO6btw/msk-ix/hls/Kto_Est_Kto/playlist.m3u8
-#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://iptvx.one/picons/v-mire-zhivotnyx.png" group_name="Познавательные", В мире животных
+#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://iptvx.one/picons/v-mire-zhivotnyx.png" group-name="Познавательные", В мире животных
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771520541-iTm0mH4g3Vk0N7JwuJ0IpQ/msk-ix/hls/Animal_Family_HD_70738/playlist.m3u8
-#EXTINF:-1 tvg-id="mir-vokrug" tvg-logo="https://iptvx.one/picons/mir-vokrug.png" group_name="Познавательные", Мир вокруг
+#EXTINF:-1 tvg-id="mir-vokrug" tvg-logo="https://iptvx.one/picons/mir-vokrug.png" group-name="Познавательные", Мир вокруг
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533649-IUUWhW1PyORbdrGMC4CaCw/msk-ix/hls/Mir_HD_International/playlist.m3u8
-#EXTINF:-1 tvg-id="365-dnej" tvg-logo="https://iptvx.one/picons/365-dnej.png" group_name="Познавательные", 365 дней ТВ
+#EXTINF:-1 tvg-id="365-dnej" tvg-logo="https://iptvx.one/picons/365-dnej.png" group-name="Познавательные", 365 дней ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533120--Afk0q-ONrSxgrp9IZuAoQ/msk-ix/hls/365_Dney_TV_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="tonus-tv" tvg-logo="https://iptvx.one/picons/tonus-tv.png" group_name="Познавательные", Тонус ТВ
+#EXTINF:-1 tvg-id="tonus-tv" tvg-logo="https://iptvx.one/picons/tonus-tv.png" group-name="Познавательные", Тонус ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771535882-YXIYzyJWfHcUC8195qDbCQ/msk-ix/hls/TONUS/playlist.m3u8
-#EXTINF:-1 tvg-id="doktor" tvg-logo="https://iptvx.one/picons/doktor.png" group_name="Познавательные", Доктор
+#EXTINF:-1 tvg-id="doktor" tvg-logo="https://iptvx.one/picons/doktor.png" group-name="Познавательные", Доктор
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771529425-Bajpj03JWO_APNINa4_vXw/msk-ix/hls/Doctor_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="usadba" tvg-logo="https://iptvx.one/picons/usadba.png" group_name="Познавательные", Усадьба
+#EXTINF:-1 tvg-id="usadba" tvg-logo="https://iptvx.one/picons/usadba.png" group-name="Познавательные", Усадьба
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771527874-zKPJm_2N_AXHY5BYHdTYow/msk-ix/hls/Usadba_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="zagorodny" tvg-logo="https://iptvx.one/picons/zagorodny.png" group_name="Познавательные", Загородный
+#EXTINF:-1 tvg-id="zagorodny" tvg-logo="https://iptvx.one/picons/zagorodny.png" group-name="Познавательные", Загородный
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771531283-YTSnVNk6V49zUZ-BsTCmdA/msk-ix/hls/ZAGORODNIY/playlist.m3u8
-#EXTINF:-1 tvg-id="zdorovoe-tv" tvg-logo="https://iptvx.one/picons/zdorovoe-tv.png" group_name="Познавательные", Здоровое ТВ
+#EXTINF:-1 tvg-id="zdorovoe-tv" tvg-logo="https://iptvx.one/picons/zdorovoe-tv.png" group-name="Познавательные", Здоровое ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771523919-PHdLtKkIHHzkp-dEdaSy7A/msk-ix/hls/Zdorovoe_TV_72166/playlist.m3u8
-#EXTINF:-1 tvg-id="ruskorabl" tvg-logo="https://iptvx.one/picons/ruskorabl.png" group_name="Познавательные", Плюс Минус 16
+#EXTINF:-1 tvg-id="ruskorabl" tvg-logo="https://iptvx.one/picons/ruskorabl.png" group-name="Познавательные", Плюс Минус 16
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771525013-bD1Pncketi67B9ZIuyJSwA/msk-ix/hls/Ru_Ship/playlist.m3u8
-#EXTINF:-1 tvg-id="vkus" tvg-logo="https://iptvx.one/picons/vkus.png" group_name="Познавательные", Вкус
+#EXTINF:-1 tvg-id="vkus" tvg-logo="https://iptvx.one/picons/vkus.png" group-name="Познавательные", Вкус
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771523435-t4I8ha4l8dDG1m8q_UMm9A/msk-ix/hls/VKUS_HD_71991/playlist.m3u8
-#EXTINF:-1 tvg-id="rus-istoria" tvg-logo="https://iptvx.one/picons/rus-istoria.png" group_name="Познавательные", Русская история
+#EXTINF:-1 tvg-id="rus-istoria" tvg-logo="https://iptvx.one/picons/rus-istoria.png" group-name="Познавательные", Русская история
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771531520-_4YloRWCOA-vLj6RJ3qNWQ/mediacdn/hls/russhistory/playlist.m3u8
-#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://iptvx.one/picons/okko-sport.png" group_name="Спорт", Окко.Спорт
-https://ekb-cdp-r6.playfamily.ru/live/cid/364162160-1771529623-pZdTLB5WcqEniOoSQ7SsJQ/m/mshf/3/uni/ba41a258-97e6-4e47-8a93-45860325501d-C5-T105-S102-3305/ba41a258-97e6-4e47-8a93-45860325501d-C5-T105-S102-3305.isml/output.mpd
-#EXTINF:-1 tvg-id="okko-football" tvg-logo="https://iptvx.one/picons/okko-football.png" group_name="Спорт", Окко.Футбол
-https://ekb-cdp-r6.playfamily.ru/live/cid/364162160-1771530917-4yv2UiUJ5AiLNMXv8PDt1w/m/mshf/4/uni/25fa7830-881c-4bd8-a8f2-9d9aa095cede-C5-T106-S102-6906/25fa7830-881c-4bd8-a8f2-9d9aa095cede-C5-T106-S102-6906.isml/output.mpd
-#EXTINF:-1 tvg-id="okko-sport-2" tvg-logo="https://iptvx.one/picons/okko-sport-2.png" group_name="Спорт", Окко.Прайм Спорт
+#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://iptvx.one/picons/okko-sport.png" group-name="Спорт", Окко.Спорт
+https://ekb-cdp-r4.playfamily.ru/live/cid/364162160-1771529623-pZdTLB5WcqEniOoSQ7SsJQ/m/mshf/3/uni/ba41a258-97e6-4e47-8a93-45860325501d-C5-T105-S102-3305/ba41a258-97e6-4e47-8a93-45860325501d-C5-T105-S102-3305.isml/output.mpd
+#EXTINF:-1 tvg-id="okko-football" tvg-logo="https://iptvx.one/picons/okko-football.png" group-name="Спорт", Окко.Футбол
+https://ekb-cdp-r3.playfamily.ru/live/cid/364162160-1771530917-4yv2UiUJ5AiLNMXv8PDt1w/m/mshf/4/uni/25fa7830-881c-4bd8-a8f2-9d9aa095cede-C5-T106-S102-6906/25fa7830-881c-4bd8-a8f2-9d9aa095cede-C5-T106-S102-6906.isml/output.mpd
+#EXTINF:-1 tvg-id="okko-sport-2" tvg-logo="https://iptvx.one/picons/okko-sport-2.png" group-name="Спорт", Окко.Прайм Спорт
 https://ekb-cdp-r3.playfamily.ru/live/cid/364162160-1771530274-Fp1xgn6RBW8WLZrEVaz-8w/m/mshf/4/uni/222e6ac7-0349-4dc5-9e80-97c62f624ab5-C5-T106-S101-7968/222e6ac7-0349-4dc5-9e80-97c62f624ab5-C5-T106-S101-7968.isml/output.mpd
-#EXTINF:-1 tvg-id="m1global" tvg-logo="https://iptvx.one/picons/m1global.png" group_name="Спорт", MMA-TV
+#EXTINF:-1 tvg-id="m1global" tvg-logo="https://iptvx.one/picons/m1global.png" group-name="Спорт", MMA-TV
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771521982-CNPygmYe4eCozBExkyEP2A/msk-ix/hls/MMA_TV_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="voleybol" tvg-logo="https://iptvx.one/picons/voleybol.png" group_name="Спорт", Волейбол
+#EXTINF:-1 tvg-id="voleybol" tvg-logo="https://iptvx.one/picons/voleybol.png" group-name="Спорт", Волейбол
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771520850-zNWzRdtmIHIjg_TlCAE0Aw/msk-ix/hls/Volleyball_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="start" tvg-logo="https://iptvx.one/picons/start.png" group_name="Спорт", Старт
+#EXTINF:-1 tvg-id="start" tvg-logo="https://iptvx.one/picons/start.png" group-name="Спорт", Старт
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771532793-_m8DB0T7rN0-FAlhAyl_Lg/msk-ix/hls/Start_68436/playlist.m3u8
-#EXTINF:-1 tvg-id="start-triumf" tvg-logo="https://iptvx.one/picons/start-triumf.png" group_name="Спорт", Старт Триумф
+#EXTINF:-1 tvg-id="start-triumf" tvg-logo="https://iptvx.one/picons/start-triumf.png" group-name="Спорт", Старт Триумф
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771534192-tod9MJS_ZtAkRe1jLHmSwA/msk-ix/hls/Start_Triumph_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="start-basket" tvg-logo="https://iptvx.one/picons/start-basket.png" group_name="Спорт", Старт Баскет
+#EXTINF:-1 tvg-id="start-basket" tvg-logo="https://iptvx.one/picons/start-basket.png" group-name="Спорт", Старт Баскет
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771534713-YPSOgdAKLOJh0IuRBTReog/msk-ix/hls/Start_Basket_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="football-ru" tvg-logo="https://iptvx.one/picons/football-ru.png" group_name="Спорт", Футбол
+#EXTINF:-1 tvg-id="football-ru" tvg-logo="https://iptvx.one/picons/football-ru.png" group-name="Спорт", Футбол
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771532795-w38o7fTUX_-jbrXA6ght0g/msk-ix/hls/Football_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="box-tv" tvg-logo="https://iptvx.one/picons/box-tv.png" group_name="Спорт", Бокс ТВ
+#EXTINF:-1 tvg-id="box-tv" tvg-logo="https://iptvx.one/picons/box-tv.png" group-name="Спорт", Бокс ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528870-zBYJqeHaAeQ4czkg0i6s4w/msk-ix/hls/BOX_TV_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="footbolny" tvg-logo="https://iptvx.one/picons/footbolny.png" group_name="Спорт", Мяч
+#EXTINF:-1 tvg-id="footbolny" tvg-logo="https://iptvx.one/picons/footbolny.png" group-name="Спорт", Мяч
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771522409-hxFBbS_TjXKliJeg_JWdAA/msk-ix/hls/Footbolniy_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="sila" tvg-logo="https://iptvx.one/picons/sila.png" group_name="Спорт", Сила HD
+#EXTINF:-1 tvg-id="sila" tvg-logo="https://iptvx.one/picons/sila.png" group-name="Спорт", Сила HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771534385-Qj-qHPEY8RB4cSNxRIHikA/msk-ix/hls/Sila_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="xokkejny" tvg-logo="https://iptvx.one/picons/xokkejny.png" group_name="Спорт", Хоккей ТВ
+#EXTINF:-1 tvg-id="xokkejny" tvg-logo="https://iptvx.one/picons/xokkejny.png" group-name="Спорт", Хоккей ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528358-oNxQVJCyQynwJyTopszwRg/msk-ix/hls/Hokeyniy_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="sportivny" tvg-logo="https://iptvx.one/picons/sportivny.png" group_name="Спорт", ТВ Спорт
+#EXTINF:-1 tvg-id="sportivny" tvg-logo="https://iptvx.one/picons/sportivny.png" group-name="Спорт", ТВ Спорт
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771523205-Ue-oM--fWavU1rvxPd-Cgw/msk-ix/hls/Sportivnyy_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://iptvx.one/picons/viasat-sport.png" group_name="Спорт", viju+ Sport
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://iptvx.one/picons/viasat-sport.png" group-name="Спорт", viju+ Sport
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771526707-ENq93YIY--JaTPCluJZ42A/msk-ix/hls/Viasat_Sport_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group_name="Спорт", Матч! ТВ
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-name="Спорт", Матч! ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771523960-nywPDwsS6QTSmAkk_0Xojw/msk-ix/hls/Match_OTT_HD_68453/playlist.m3u8
-#EXTINF:-1 tvg-id="fightclub" tvg-logo="https://iptvx.one/picons/fightclub.png" group_name="Спорт", Fight Club
+#EXTINF:-1 tvg-id="fightclub" tvg-logo="https://iptvx.one/picons/fightclub.png" group-name="Спорт", Fight Club
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771530403-4gh8h058MQATrULuFqO3Ug/msk-ix/hls/Fight_Club_HD_72187/playlist.m3u8
-#EXTINF:-1 tvg-id="bubokko-tv" tvg-logo="https://iptvx.one/picons/bubokko-tv.png" group_name="Детские", БубОкко ТВ
+#EXTINF:-1 tvg-id="bubokko-tv" tvg-logo="https://iptvx.one/picons/bubokko-tv.png" group-name="Детские", БубОкко ТВ
 https://ekb-cdp-r3.playfamily.ru/live/cid/364162160-1771522394-pC6K-TPCuKIDhKNWXWGYOA/m/mshf/4/uni/808c1342-e6fc-4fa9-852b-9c8a0e784b27-C5-T7-S02-4384/808c1342-e6fc-4fa9-852b-9c8a0e784b27-C5-T7-S02-4384.isml/output.mpd
-#EXTINF:-1 tvg-id="multimania" tvg-logo="https://iptvx.one/picons/multimania.png" group_name="Детские", Мультиландия
+#EXTINF:-1 tvg-id="multimania" tvg-logo="https://iptvx.one/picons/multimania.png" group-name="Детские", Мультиландия
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771530814-GgBGtBYlADVF_bs2Bx46Rw/msk-ix/hls/Multilandia_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="detsky-mir" tvg-logo="https://iptvx.one/picons/detsky-mir.png" group_name="Детские", Детский мир
+#EXTINF:-1 tvg-id="detsky-mir" tvg-logo="https://iptvx.one/picons/detsky-mir.png" group-name="Детские", Детский мир
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771535802-SeS_THlrYkmjc0NG8A_2dA/msk-ix/hls/Detskiy_Mir_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group_name="Детские", Мульт
+#EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-name="Детские", Мульт
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771524596-qZDPA3JZ_Bb2tCsDolIIYA/msk-ix/hls/Mult_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png" group_name="Детские", Солнце
+#EXTINF:-1 tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png" group-name="Детские", Солнце
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771535291-yEpJW7eAlAfZ52GDD4K_Tg/msk-ix/hls/Disney/playlist.m3u8
-#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://iptvx.one/picons/v-gostiax-u-skazki.png" group_name="Детские", В гостях у сказки
+#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://iptvx.one/picons/v-gostiax-u-skazki.png" group-name="Детские", В гостях у сказки
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528135-4E2bzbdUxq_WeKfbuUTmyA/msk-ix/hls/VGostyahUSkazki_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group_name="Детские", Ani
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-name="Детские", Ani
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771527027-ABJshjOEnx7LonewOnjVUQ/msk-ix/hls/Ani_SD/playlist.m3u8
-#EXTINF:-1 tvg-id="malysh" tvg-logo="https://iptvx.one/picons/malysh.png" group_name="Детские", Супергерои
+#EXTINF:-1 tvg-id="malysh" tvg-logo="https://iptvx.one/picons/malysh.png" group-name="Детские", Супергерои
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771521779-GiYc5rVeKak9lsKnbutLGQ/msk-ix/hls/SuperHeroes_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="ginger-hd" tvg-logo="https://iptvx.one/picons/capfantast.png" group_name="Детские", Капитан Фантастика HD
+#EXTINF:-1 tvg-id="ginger-hd" tvg-logo="https://iptvx.one/picons/capfantast.png" group-name="Детские", Капитан Фантастика HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771531318-O2T0zTGD3d1S4QHYE17KBQ/msk-ix/hls/Ginger_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="ducktv" tvg-logo="https://iptvx.one/picons/ducktv.png" group_name="Детские", Duck TV
+#EXTINF:-1 tvg-id="ducktv" tvg-logo="https://iptvx.one/picons/ducktv.png" group-name="Детские", Duck TV
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528949-OTX_j9j3rtmu36pZqZ7VWw/msk-ix/hls/DuckTV_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="cartoon-classics" tvg-logo="https://iptvx.one/picons/cartoon-classics.png" group_name="Детские", Cartoon Classics
+#EXTINF:-1 tvg-id="cartoon-classics" tvg-logo="https://iptvx.one/picons/cartoon-classics.png" group-name="Детские", Cartoon Classics
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771536164-BN3i9aP79L7c57cxiY42SQ/msk-ix/hls/Cartoon_Classics_HD_71636/playlist.m3u8
-#EXTINF:-1 tvg-id="chizhik" tvg-logo="https://iptvx.one/picons/chizhik.png" group_name="Детские", Чижик
+#EXTINF:-1 tvg-id="chizhik" tvg-logo="https://iptvx.one/picons/chizhik.png" group-name="Детские", Чижик
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771520176-CPLAt-I06n6V1eFRYIjB1g/msk-ix/hls/Chizhik_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="radost-moya" tvg-logo="https://iptvx.one/picons/radost-moya.png" group_name="Детские", Радость моя
+#EXTINF:-1 tvg-id="radost-moya" tvg-logo="https://iptvx.one/picons/radost-moya.png" group-name="Детские", Радость моя
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771524420-eKj1HNtBenoJOWdUl7UhEw/mediacdn/hls/radost/playlist.m3u8
-#EXTINF:-1 tvg-id="kinomult" tvg-logo="https://iptvx.one/picons/kinomult.png" group_name="Детские", Киномульт
+#EXTINF:-1 tvg-id="kinomult" tvg-logo="https://iptvx.one/picons/kinomult.png" group-name="Детские", Киномульт
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771521892--qpZFd784cWO80DNsk5K2Q/msk-ix/hls/Kinomult/playlist.m3u8
-#EXTINF:-1 tvg-id="detsky" tvg-logo="https://iptvx.one/picons/unikum.png" group_name="Детские", Детский
+#EXTINF:-1 tvg-id="detsky" tvg-logo="https://iptvx.one/picons/unikum.png" group-name="Детские", Детский
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771531391-XllNZ6cwgXGefnGs12mh4A/msk-ix/hls/Unikum_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="tiptop" tvg-logo="https://iptvx.one/picons/tiptop.png" group_name="Детские", ТипТоп
+#EXTINF:-1 tvg-id="tiptop" tvg-logo="https://iptvx.one/picons/tiptop.png" group-name="Детские", ТипТоп
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771527910-cJSvnDofdyidqZvyKzXihg/msk-ix/hls/TipTop_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://iptvx.one/picons/ryzhy.png" group_name="Детские", Рыжий
+#EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://iptvx.one/picons/ryzhy.png" group-name="Детские", Рыжий
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771520571-0FCdLVmj83p8izmWPDKyQw/msk-ix/hls/RYZHIY_s_surdoperevodom/playlist.m3u8
-#EXTINF:-1 tvg-id="baby-time" tvg-logo="https://iptvx.one/picons/baby-time.png" group_name="Детские", Baby Time
+#EXTINF:-1 tvg-id="baby-time" tvg-logo="https://iptvx.one/picons/baby-time.png" group-name="Детские", Baby Time
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771523696-qmL83UEpDjH5t1Ik0EbVug/msk-ix/hls/BRIDGE_BABYTIME/playlist.m3u8
-#EXTINF:-1 tvg-id="multimuzyka" tvg-logo="https://iptvx.one/picons/multimuzyka.png" group_name="Детские", Мультимузыка
+#EXTINF:-1 tvg-id="multimuzyka" tvg-logo="https://iptvx.one/picons/multimuzyka.png" group-name="Детские", Мультимузыка
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771526863-qwjpenmOrvAalxv38usayg/msk-ix/hls/Multimuzyka_SD/playlist.m3u8
-#EXTINF:-1 tvg-id="mama" tvg-logo="https://iptvx.one/picons/mama.png" group_name="Детские", Мама
+#EXTINF:-1 tvg-id="mama" tvg-logo="https://iptvx.one/picons/mama.png" group-name="Детские", Мама
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533295-3uhRrsMTJ7kkuktDxsgOrA/msk-ix/hls/Mama_SD/playlist.m3u8
-#EXTINF:-1 tvg-id="kidstv" tvg-logo="https://iptvx.one/picons/kidstv.png" group_name="Детские", Kids TV
+#EXTINF:-1 tvg-id="kidstv" tvg-logo="https://iptvx.one/picons/kidstv.png" group-name="Детские", Kids TV
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771525640-1zIXTouVFf_XuzLjSu-evw/msk-ix/hls/Kids_TV_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="https://iptvx.one/picons/smaylik-tv.png" group_name="Детские", Смайлик ТВ
+#EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="https://iptvx.one/picons/smaylik-tv.png" group-name="Детские", Смайлик ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771529507-Fjgn3dyxBUenKQ47zRWN9Q/msk-ix/hls/Smilik_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group_name="Детские", Карусель
+#EXTINF:-1 tvg-id="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-name="Детские", Карусель
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771524559-_5RF4dHl1kitZvzHV3PoPg/xxxx/hls/karusel/playlist.m3u8
-#EXTINF:-1 tvg-id="da-vinci" tvg-logo="https://iptvx.one/picons/da-vinci.png" group_name="Детские", Da Vinci
+#EXTINF:-1 tvg-id="da-vinci" tvg-logo="https://iptvx.one/picons/da-vinci.png" group-name="Детские", Da Vinci
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771536236-smPdirHIZo6jB1prbE56IA/msk-ix/hls/Da_Vinci/playlist.m3u8
-#EXTINF:-1 tvg-id="1hd" tvg-logo="https://iptvx.one/picons/1hd-music.png" group_name="Музыка", 1HD Music Television
+#EXTINF:-1 tvg-id="1hd" tvg-logo="https://iptvx.one/picons/1hd-music.png" group-name="Музыка", 1HD Music Television
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528303-kQbT-7zseS7CvITMCmmujQ/msk-ix/hls/1HD_Music_Television/playlist.m3u8
-#EXTINF:-1 tvg-id="zhara" tvg-logo="https://iptvx.one/picons/zhara.png" group_name="Музыка", Жара
+#EXTINF:-1 tvg-id="zhara" tvg-logo="https://iptvx.one/picons/zhara.png" group-name="Музыка", Жара
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528768-44VQdoRHznoaevfysjIIMA/msk-ix/hls/Zhara_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/ru-tv.png" group_name="Музыка", RU.TV
+#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/ru-tv.png" group-name="Музыка", RU.TV
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771524845-peH7m8vfOFL7Yw9XExzPXw/msk-ix/hls/RUTV_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="aiva" tvg-logo="https://iptvx.one/picons/aiva.png" group_name="Музыка", AIVA
+#EXTINF:-1 tvg-id="aiva" tvg-logo="https://iptvx.one/picons/aiva.png" group-name="Музыка", AIVA
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771520093-hkqFavF6gqm2GriVjIYEJA/msk-ix/hls/AIVA_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="clubbing-tv" tvg-logo="https://iptvx.one/picons/clubbing-tv.png" group_name="Музыка", Clubbing TV
+#EXTINF:-1 tvg-id="clubbing-tv" tvg-logo="https://iptvx.one/picons/clubbing-tv.png" group-name="Музыка", Clubbing TV
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771520093-q4ljiuoIWBTNd6s-VdFEWQ/msk-ix/hls/ClubbingTV_Russia/playlist.m3u8
-#EXTINF:-1 tvg-id="trace-urban" tvg-logo="https://iptvx.one/picons/trace-urban.png" group_name="Музыка", Trace Urban
+#EXTINF:-1 tvg-id="trace-urban" tvg-logo="https://iptvx.one/picons/trace-urban.png" group-name="Музыка", Trace Urban
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771530403-YY-cVWLHmoCK-UOJGBrvKg/msk-ix/hls/TRACE_URBAN_INTER_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="bridge-tv" tvg-logo="https://iptvx.one/picons/bridge-tv.png" group_name="Музыка", Bridge TV
+#EXTINF:-1 tvg-id="bridge-tv" tvg-logo="https://iptvx.one/picons/bridge-tv.png" group-name="Музыка", Bridge TV
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771525852-aSYRjamEukVfwDc9Fb8I8A/msk-ix/hls/BRIDGE_TV_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-logo="https://iptvx.one/picons/bridge-tv-rock.png" group_name="Музыка", Bridge TV Rock
+#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-logo="https://iptvx.one/picons/bridge-tv-rock.png" group-name="Музыка", Bridge TV Rock
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771522671-NFkNUFPg7YzjMj8tOwUdfQ/msk-ix/hls/BRIDGE_Rock_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png" group_name="Музыка", Bridge TV Русский хит
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png" group-name="Музыка", Bridge TV Русский хит
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771529494-__BIJglBAcguejVV-Bqv4w/msk-ix/hls/BRIDGE_RUHIT_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="bridge-hd" tvg-logo="https://iptvx.one/picons/bridge-hd.png" group_name="Музыка", Bridge TV Deluxe
+#EXTINF:-1 tvg-id="bridge-hd" tvg-logo="https://iptvx.one/picons/bridge-hd.png" group-name="Музыка", Bridge TV Deluxe
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771527748-S243rkxMm3sro_MfobojoA/msk-ix/hls/BRIDGE_TV_DELUXE_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-dance" tvg-logo="https://iptvx.one/picons/bridge-tv-dance.png" group_name="Музыка", Bridge TV Hits
+#EXTINF:-1 tvg-id="bridge-tv-dance" tvg-logo="https://iptvx.one/picons/bridge-tv-dance.png" group-name="Музыка", Bridge TV Hits
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771532248-iJTapRmM5IMSWMRTIoK6Hg/msk-ix/hls/BRIDGE_Hits_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-classic" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png" group_name="Музыка", Bridge TV Classic
+#EXTINF:-1 tvg-id="bridge-tv-classic" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png" group-name="Музыка", Bridge TV Classic
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771529478-Z7nxIT6ycuvxHSq_DKLbCQ/msk-ix/hls/BRIDGE_CLASSIC_HD_72200/playlist.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-logo="https://iptvx.one/picons/bridge-tv-shlager.png" group_name="Музыка", Bridge TV Шлягер
+#EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-logo="https://iptvx.one/picons/bridge-tv-shlager.png" group-name="Музыка", Bridge TV Шлягер
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771521303-54fqZzp8UVpvouKAO1d1Kw/msk-ix/hls/BRIDGE_TV_Schlager/playlist.m3u8
-#EXTINF:-1 tvg-id="la-minor" tvg-logo="https://iptvx.one/picons/la-minor.png" group_name="Музыка", Музыка Live
+#EXTINF:-1 tvg-id="la-minor" tvg-logo="https://iptvx.one/picons/la-minor.png" group-name="Музыка", Музыка Live
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771523018-P6w4M29bbsG_suwldMdyuA/msk-ix/hls/Lya_minor_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png" group_name="Музыка", ТНТ-Music
+#EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png" group-name="Музыка", ТНТ-Music
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771523758-r2BO1SEj_AYeztDBdKuIBA/mediacdn/hls/tntmusic/playlist.m3u8
-#EXTINF:-1 tvg-id="musicbox" tvg-logo="https://iptvx.one/picons/musicbox-gold.png" group_name="Музыка", Musicbox Gold
+#EXTINF:-1 tvg-id="musicbox" tvg-logo="https://iptvx.one/picons/musicbox-gold.png" group-name="Музыка", Musicbox Gold
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771529316-4_g5aDoq5rfqZCX2-hNQpg/msk-ix/hls/MusicBox_Gold/playlist.m3u8
-#EXTINF:-1 tvg-id="russian-musicbox" tvg-logo="https://iptvx.one/picons/russian-musicbox.png" group_name="Музыка", Russian MusicBox
+#EXTINF:-1 tvg-id="russian-musicbox" tvg-logo="https://iptvx.one/picons/russian-musicbox.png" group-name="Музыка", Russian MusicBox
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771526895-1tbDWTnZtTXDb8WH8pJ0Fw/msk-ix/hls/Russian_Music_Box_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="song-tv-ru" tvg-logo="https://iptvx.one/picons/song-tv-ru.png" group_name="Музыка", Song TV Russia
+#EXTINF:-1 tvg-id="song-tv-ru" tvg-logo="https://iptvx.one/picons/song-tv-ru.png" group-name="Музыка", Song TV Russia
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771528044-xshbKVQmXQt3bHTxt-d_tQ/msk-ix/hls/Song_TV_HD_Russia/playlist.m3u8
-#EXTINF:-1 tvg-id="muztv" tvg-logo="https://iptvx.one/picons/muztv.png" group_name="Музыка", Муз-ТВ
+#EXTINF:-1 tvg-id="muztv" tvg-logo="https://iptvx.one/picons/muztv.png" group-name="Музыка", Муз-ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771529847-Bq_DLHQcGgNeedQlVY3V9w/msk-ix/hls/MuzTV/playlist.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-fresh" tvg-logo="https://iptvx.one/picons/bridge-tv-fresh.png" group_name="Музыка", Bridge TV Фрэш
+#EXTINF:-1 tvg-id="bridge-tv-fresh" tvg-logo="https://iptvx.one/picons/bridge-tv-fresh.png" group-name="Музыка", Bridge TV Фрэш
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771531324-bsH-ORq5fB66W2p1AA2UWQ/msk-ix/hls/BRIDGE_FRESH_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-etno" tvg-logo="https://iptvx.one/picons/bridge-tv-etno.png" group_name="Музыка", Bridge TV Этно
+#EXTINF:-1 tvg-id="bridge-tv-etno" tvg-logo="https://iptvx.one/picons/bridge-tv-etno.png" group-name="Музыка", Bridge TV Этно
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533159-FicZB6kAoAR1PajUcLjfgw/msk-ix/hls/BRIDGE_ETHNO_HD_2/playlist.m3u8
-#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://iptvx.one/picons/shanson-tv.png" group_name="Музыка", Шансон-TB
+#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-name="Музыка", Шансон-TB
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771525941-sRnFxhjG68TELlZtrkfZgw/msk-ix/hls/Shanson/playlist.m3u8
-#EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://iptvx.one/picons/moskva-24.png" group_name="Новости", Москва 24
+#EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://iptvx.one/picons/moskva-24.png" group-name="Новости", Москва 24
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771535692-vvvkzEQBhMXr9AsGYK4umQ/msk-ix/hls/Moscow_24/playlist.m3u8
-#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group_name="Новости", Известия
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-name="Новости", Известия
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771530729-MDVYQmLpeie6wei2q_mMoQ/msk-ix/hls/Izvestiya_HD_2/playlist.m3u8
-#EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" group_name="Новости", РБК
+#EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" group-name="Новости", РБК
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771534481-16lxJVNJAflvqPF2FNS1jA/msk-ix/hls/RBC_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group_name="Новости", Мир 24
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group-name="Новости", Мир 24
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771525747-QiM8pC_q9F1wwyqRuzxreQ/msk-ix/hls/Mir_24_OTT_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="360-news" tvg-logo="https://iptvx.one/picons/360-news.png" group_name="Новости", 360° Новости
+#EXTINF:-1 tvg-id="360-news" tvg-logo="https://iptvx.one/picons/360-news.png" group-name="Новости", 360° Новости
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771522114-YF__xr3MDQKkYdr8VWp_vw/msk-ix/hls/360_Novosti_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="https://iptvx.one/picons/sankt-peterburg.png" group_name="Новости", Санкт-Петербург
+#EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="https://iptvx.one/picons/sankt-peterburg.png" group-name="Новости", Санкт-Петербург
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771531987-DHEBsFr_o3nBNCC50n2C_w/mediacdn/dash/spbhd/manifest.mpd
-#EXTINF:-1 tvg-id="78kanal" tvg-logo="https://iptvx.one/picons/78.png" group_name="Новости", 78
+#EXTINF:-1 tvg-id="78kanal" tvg-logo="https://iptvx.one/picons/78.png" group-name="Новости", 78
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771533561-h2VP9vJ78kdZd23Hpn-XPw/msk-ix/hls/78_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="tro" tvg-logo="https://iptvx.one/picons/belros.png" group_name="Новости", БелРос
+#EXTINF:-1 tvg-id="tro" tvg-logo="https://iptvx.one/picons/belros.png" group-name="Новости", БелРос
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771531580-RjrFuWl9VKaqgevtHbjOKA/msk-ix/hls/BelRos/playlist.m3u8
-#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group_name="Новости", Соловьев.Live
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-name="Новости", Соловьев.Live
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771526022-UReJmle2yhsSC3acx7386w/mediacdn/hls/solovyev/playlist.m3u8
-#EXTINF:-1 tvg-id="nasha-sibir-4k" tvg-logo="https://iptvx.one/picons/nasha-sibir-4k.png" group_name="Другие", Наша Сибирь 4K
+#EXTINF:-1 tvg-id="nasha-sibir-4k" tvg-logo="https://iptvx.one/picons/nasha-sibir-4k.png" group-name="Другие", Наша Сибирь 4K
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771525532-r_SjOqXX4Qnk8L0z6WSGOw/msk-ix/hls/Nasha_Sibir_4K/playlist.m3u8
-#EXTINF:-1 tvg-id="nasha-sibir" tvg-logo="https://iptvx.one/picons/nasha-sibir.png" group_name="Другие", Наша Сибирь HD
+#EXTINF:-1 tvg-id="nasha-sibir" tvg-logo="https://iptvx.one/picons/nasha-sibir.png" group-name="Другие", Наша Сибирь HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771529735-YXJV0WJ2-3K4w3Nqchx-hA/msk-ix/hls/Nasha_Sibir_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="psixologia-21" tvg-logo="https://iptvx.one/picons/psixologia-21.png" group_name="Другие", Психология 21
+#EXTINF:-1 tvg-id="psixologia-21" tvg-logo="https://iptvx.one/picons/psixologia-21.png" group-name="Другие", Психология 21
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771534025-bgO3m3t7HG1YL-T-Do3Jvg/msk-ix/hls/Psihologiya_21/playlist.m3u8
-#EXTINF:-1 tvg-id="appetitny" tvg-logo="https://iptvx.one/picons/appetitny.png" group_name="Другие", Аппетитный
+#EXTINF:-1 tvg-id="appetitny" tvg-logo="https://iptvx.one/picons/appetitny.png" group-name="Другие", Аппетитный
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771534187-YewrACZb0S-zo_G_YcvfTA/msk-ix/hls/Appetit_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="ratnik" tvg-logo="https://iptvx.one/picons/ratnik.png" group_name="Другие", Ратник
+#EXTINF:-1 tvg-id="ratnik" tvg-logo="https://iptvx.one/picons/ratnik.png" group-name="Другие", Ратник
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1771524928-pW5oN8rD-tJRqWTrfiY0lw/mediacdn/hls/ratnik/playlist.m3u8
