@@ -1,4 +1,5 @@
 #EXTM3U catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" catchup-record-source="?utcstart=${start}&utcend=${end}"
 #EXTINF:-1 group-title="Федеральные",Мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-https://s25617.cdn.ngenix.net/mdrm/CH_MIRHD/manifest.mpd?token=nbNmRmOTA3MTk0OTM0ZDU0MmZhYWNjODk0ODU3NmIwNjE
+#EXTVLCOPT:avdemux-options={decryption_key=6df907194934d542faacc8948576b061}
+https://s25617.cdn.ngenix.net/mdrm/CH_MIRHD/manifest.mpd
