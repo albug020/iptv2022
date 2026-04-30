@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:0,CH_GAGSNETWORKHD
-https://s91412.cdn.ngenix.net/mdrm/CH_GAGSNETWORKHD/manifest.mpd?token=XnMTcxZTdkNzFkYTZmNmM3OWIyMDRmMTMyYzVmZjRmYjc
+#EXTINF:0,первый канал
+https://1tv-live-gcore.gcdn.co/dash-live12/streams/1tv/1tvdash.mpd
