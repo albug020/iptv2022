@@ -71,7 +71,7 @@ https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777731127-EN1tg-1Aw_7M_oBmD1R
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777737720-S_TmIOQ6esGiCAqYmlcZ2g/msk-ix/hls/Ohota_i_Ribalka_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="avto24" tvg-logo="https://iptvx.one/picons/avto24.png" group-title="Развлекательные", Авто24
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777731854-yW3MbUmsvI_EyLg5bWvong/msk-ix/hls/Avto24_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="glazami-turista-4k" group-title="Развлекательные", Глазами туриста 4К
+#EXTINF:-1 tvg-id="glazami-turista-4k" tvg-logo="https://iptvx.one/picons/glazami-turista-4k.png" group-title="Развлекательные", Глазами туриста 4K
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777745465-zu71ryP4KJeOa4vB_qYEpg/msk-ix/hls/Glazami_Turista_4K/playlist.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" tvg-logo="https://iptvx.one/picons/glazami-turista.png" group-title="Развлекательные", Глазами туриста HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777732330-9yYq1Khgvx4iMrZwNCnrtg/msk-ix/hls/Glazami_turista_HD/playlist.m3u8
@@ -122,7 +122,7 @@ https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777745602-GHMWz2V5WCVo4tIib2b
 #EXTINF:-1 tvg-id="belarus24" tvg-logo="https://iptvx.one/picons/belarus24.png" group-title="Развлекательные", Беларусь 24
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777743135-wTTM4vWWWSzO8sH_C3LR6w/msk-ix/hls/Belarus24_SD/playlist.m3u8
 #EXTINF:-1 tvg-id="okko-tv" tvg-logo="https://iptvx.one/picons/okko-tv.png" group-title="Фильмы и сериалы", Okko TV
-https://ekb-cdp-r4.playfamily.ru/live/cid/364162160-1777741290-bhMKQahqvT6zBLbYReHR5A/m/mshf/3202/uni/f24eb142-0bbe-4ba2-b540-722eefc775c2-C32-L3204-S50001-2117/f24eb142-0bbe-4ba2-b540-722eefc775c2-C32-L3204-S50001-2117.isml/output.mpd
+https://ekb-cdp-r2.playfamily.ru/live/cid/364162160-1777741290-bhMKQahqvT6zBLbYReHR5A/m/mshf/3202/uni/f24eb142-0bbe-4ba2-b540-722eefc775c2-C32-L3204-S50001-2117/f24eb142-0bbe-4ba2-b540-722eefc775c2-C32-L3204-S50001-2117.isml/output.mpd
 #EXTINF:-1 tvg-id="tvxxi" tvg-logo="https://iptvx.one/picons/tvxxi.png" group-title="Фильмы и сериалы", TV XXI
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777729857-fjzMOBQi8UBDWKs4Cp_yQw/msk-ix/hls/TV21_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="sov-kinklass-hd" tvg-logo="https://iptvx.one/picons/sov-kinklass-hd.png" group-title="Фильмы и сериалы", Советская киноклассика HD
@@ -145,7 +145,7 @@ https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777733199-xHvJ84MHbMD4nqvNxk9
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777744308-5fpQQJrAY8yHeilVawDqcg/msk-ix/hls/viju_TV1000_Novella_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://iptvx.one/picons/blokbaster.png" group-title="Фильмы и сериалы", Блокбастер HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777743036-47R402m_eS-66oLM3HD0UQ/msk-ix/hls/Blockbuster_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="sumiko" group-title="Фильмы и сериалы", Sumiko HD
+#EXTINF:-1 tvg-id="sumiko" tvg-logo="https://iptvx.one/picons/sumiko.png" group-title="Фильмы и сериалы", Sumiko
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777742070-NpW8nbs2JIB_oVRK0Pz2Pg/msk-ix/hls/SUMICO_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="Фильмы и сериалы", Дорама
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777741820-vSRAuSNnEvcLWbwHV_-WAg/msk-ix/hls/Dorama_HD/playlist.m3u8
@@ -329,15 +329,15 @@ https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777732971-55lFSkEjcVe5A78cv5W
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777741056-a76QAP2gKkKXz_G2hPSY-w/mediacdn/hls/russhistory/playlist.m3u8
 #EXTINF:-1 tvg-id="zhivi-aktivno" tvg-logo="https://iptvx.one/picons/zhivi-aktivno.png" group-title="Познавательные", Живи активно HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777741640-HYrZ7V_VLzc2XLYU4yjArQ/msk-ix/hls/Zhivi_Activno/playlist.m3u8
-#EXTINF:-1 tvg-id="doverie" group-title="Познавательные", Москва Доверие
+#EXTINF:-1 tvg-id="doverie" tvg-logo="https://iptvx.one/picons/doverie.png" group-title="Познавательные", Москва. Доверие
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777737032-M7iCW4fYDkieTvaPCaHwGw/mediacdn/hls/moskvadoverie/playlist.m3u8
 #EXTINF:-1 tvg-id="okko-football" tvg-logo="https://iptvx.one/picons/okko-football.png" group-title="Спорт", Окко.Футбол
-https://ekb-cdp-r3.playfamily.ru/live/cid/364162160-1777740093-eNiPD-ma7ndzv0XJGUlQ5A/m/mshf/4/uni/25fa7830-881c-4bd8-a8f2-9d9aa095cede-C5-T106-S102-6906/25fa7830-881c-4bd8-a8f2-9d9aa095cede-C5-T106-S102-6906.isml/output.mpd
+https://ekb-cdp-r5.playfamily.ru/live/cid/364162160-1777740093-eNiPD-ma7ndzv0XJGUlQ5A/m/mshf/4/uni/25fa7830-881c-4bd8-a8f2-9d9aa095cede-C5-T106-S102-6906/25fa7830-881c-4bd8-a8f2-9d9aa095cede-C5-T106-S102-6906.isml/output.mpd
 #EXTINF:-1 tvg-id="okko-sport-2" tvg-logo="https://iptvx.one/picons/okko-sport-2.png" group-title="Спорт", Окко.Прайм Спорт
 https://ekb-cdp-r5.playfamily.ru/live/cid/364162160-1777739236-guD2tlY5RsIXEVufW2vTZw/m/mshf/4/uni/222e6ac7-0349-4dc5-9e80-97c62f624ab5-C5-T106-S101-7968/222e6ac7-0349-4dc5-9e80-97c62f624ab5-C5-T106-S101-7968.isml/output.mpd
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://iptvx.one/picons/okko-sport.png" group-title="Спорт", Окко.Спорт
-https://ekb-cdp-r3.playfamily.ru/live/cid/364162160-1777737750-alRYYN18uyt4AaGX5L72VA/m/mshf/3/uni/ba41a258-97e6-4e47-8a93-45860325501d-C5-T105-S102-3305/ba41a258-97e6-4e47-8a93-45860325501d-C5-T105-S102-3305.isml/output.mpd
-#EXTINF:-1 tvg-id="m1global" group-title="Спорт", MMA-TV.com
+https://ekb-cdp-r5.playfamily.ru/live/cid/364162160-1777737750-alRYYN18uyt4AaGX5L72VA/m/mshf/3/uni/ba41a258-97e6-4e47-8a93-45860325501d-C5-T105-S102-3305/ba41a258-97e6-4e47-8a93-45860325501d-C5-T105-S102-3305.isml/output.mpd
+#EXTINF:-1 tvg-id="m1global" tvg-logo="https://iptvx.one/picons/m1global.png" group-title="Спорт", MMA-TV
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777731518-NrZIz-y8dDe0z_iHcDYjYA/msk-ix/hls/MMA_TV_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="voleybol" tvg-logo="https://iptvx.one/picons/voleybol.png" group-title="Спорт", Волейбол
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777730386-7_MKibF0Us4fPJo7Su9QhQ/msk-ix/hls/Volleyball_HD/playlist.m3u8
@@ -363,12 +363,12 @@ https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777732741-9s-2VpLswbQZq0l8fge
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777736243-CcVxFTNmlB6dWV14gwzYUw/msk-ix/hls/Viasat_Sport_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спорт", Матч! ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777733496-sbrttp44YpkH6xjwra-6vg/msk-ix/hls/Match_OTT_HD_68453/playlist.m3u8
-#EXTINF:-1 tvg-id="moto-drive" group-title="Спорт", МотоДрайв
+#EXTINF:-1 tvg-id="moto-drive" tvg-logo="https://iptvx.one/picons/moto-drive.png" group-title="Спорт", Мото Драйв ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777739237-hdXIzcL3rtSZz6qWwUC6zw/msk-ix/hls/MotoDrive_HD_72644/playlist.m3u8
 #EXTINF:-1 tvg-id="sportmaster-tv" tvg-logo="https://iptvx.one/picons/sportmaster-tv.png" group-title="Спорт", Бум
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777733740-lXSzjaCr-qtcbN9EtXtu4A/msk-ix/hls/BUM_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="bubokko-tv" tvg-logo="https://iptvx.one/picons/bubokko-tv.png" group-title="Детские", БубОкко ТВ
-https://ekb-cdp-r2.playfamily.ru/live/cid/364162160-1777744747-KeN4XsHlzQIei_hiZnkYzg/m/mshf/502/uni/808c1342-e6fc-4fa9-852b-9c8a0e784b27-C5-T2-S02-5850/808c1342-e6fc-4fa9-852b-9c8a0e784b27-C5-T2-S02-5850.isml/output.mpd
+https://ekb-cdp-r4.playfamily.ru/live/cid/364162160-1777744747-KeN4XsHlzQIei_hiZnkYzg/m/mshf/502/uni/808c1342-e6fc-4fa9-852b-9c8a0e784b27-C5-T2-S02-5850/808c1342-e6fc-4fa9-852b-9c8a0e784b27-C5-T2-S02-5850.isml/output.mpd
 #EXTINF:-1 tvg-id="multimania" tvg-logo="https://iptvx.one/picons/multimania.png" group-title="Детские", Мультиландия
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777740350-l2n-dKB7OIM_jXC7EcsNsw/msk-ix/hls/Multilandia_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" tvg-logo="https://iptvx.one/picons/detsky-mir.png" group-title="Детские", Детский мир
@@ -489,7 +489,7 @@ https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777743561-FZAULUauFmvwXQITTVs
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777743723-c2EjZ0JTnHyFdBpT2zI62g/msk-ix/hls/Appetit_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="ratnik" tvg-logo="https://iptvx.one/picons/ratnik.png" group-title="Другие", Ратник
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777734464-l9UTgyiVWNkL6AI4Azl_Jw/mediacdn/hls/ratnik/playlist.m3u8
-#EXTINF:-1 tvg-id="pro-business" group-title="Другие", ПРО БИЗНЕС
+#EXTINF:-1 tvg-id="pro-business" tvg-logo="https://iptvx.one/picons/pro-business.png" group-title="Другие", Про бизнес
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777737336-lTLjHjyEOdMsoQtLgtzFuA/mediacdn/hls/probusiness/playlist.m3u8
 #EXTINF:-1 tvg-id="zhivaya-priroda" tvg-logo="https://iptvx.one/picons/zhivaya-priroda.png" group-title="Другие", Живая природа HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1777743919-XggxhN_Eq92bZZ4YnPb1Dw/msk-ix/hls/Zhivaya_priroda_HD_72425/playlist.m3u8
