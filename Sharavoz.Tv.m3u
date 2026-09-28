@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://iptv-content.rv77.pw/epg.xml.gz"
 #EXTINF:0,Первый канал HD
 #EXTGRP:RU Общероссийские
-http://ru02.plinkspile.cc/127/index.m3u8?token=K72K6WRNsxQ8iX
+http://ru02.plinkspile.cc/128/index.m3u8?token=K72K6WRNsxQ8iX
 #EXTINF:0,Первый канал
 #EXTGRP:RU Общероссийские
 http://ru02.plinkspile.cc/5005/index.m3u8?token=K72K6WRNsxQ8iX
