@@ -1,1 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
 
+  <channel id="kp-577268">
+    <display-name>Другая жизнь женщины (2012)</display-name>
+    <icon src="https://cdnrrviubnyuntopbez5.svc.cdn.yandex.net/get-kinopoisk-image/1599028/69ced32a-98b6-42ec-b01c-2e67932129a2/300x450"/>
+  </channel>
+  <programme start="20260101000000 +0000" channel="kp-577268">
+    <title lang="ru">Другая жизнь женщины (2012)</title>
+    <desc lang="ru">Мари исполнилось 40. Но странный эффект: однажды утром она проснулась с ощущением, что 15 последних лет её жизни как не бывало. А та любовь, которая на самом деле уже подходит к концу — до развода 4 дня — еще только начинается. Можно ли вернуть прошлое за 4 дня и что такое ты, прежняя, застенчивая провинциалка в роли преуспевающей бизнес-леди?</desc>
+    <category lang="ru">Фильмы</category>
+    
+  </programme>
+</tv>
