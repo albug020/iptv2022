@@ -1,3 +1,5 @@
 #EXTM3U catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" catchup-record-source="?utcstart=${start}&utcend=${end}"
 #EXTINF:-1,Обитель зла (2026) (Дубляж [4K, SDR, ru, MovieDalen])
 https://nl105.cdnsqu.com/s/FHnNLVw15-6YUHP0qGAqtn-EFBQUFBQXhnT1VFUjVmV1RnaUFmTTBjPQ.xCMypVLbfOkWh-R41L0iNb1mmB17u8LhaK38Fw/UHD_1313/Resident.Evil.2026.2026.D.ru.MovieDalen.WEBDL.1080pp_720.mp4
+#EXTINF:-1 tvg-logo="https://cdnrrviubnyuntopbez5.svc.cdn.yandex.net/get-kinopoisk-image/1599028/69ced32a-98b6-42ec-b01c-2e67932129a2/300x450" group-title="Фильмы",Другая жизнь женщины (2012) (Русский)
+https://nl202.cdnsqu.com/s/FHId7T-HLlOoccU8St_WckC0FBQUFBQXhnT1VFUjVTWWhnaUJZa0VjPQ.-I4g8vtiykMEr7V_fPpXa6xrp2zkxa7BSBeneQ/sd_480v/Drugaja.zhizn.zhenshhiny_480.mp4?am1
