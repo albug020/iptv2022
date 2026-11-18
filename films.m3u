@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/albug020/iptv2022/edit/main/films.m3u"
+#EXTM3U x-tvg-url="https://github.com/albug020/iptv2022/raw/refs/heads/main/films.xml"
 #EXTINF:-1,Обитель зла (2026) (Дубляж [4K, SDR, ru, MovieDalen])
 https://nl105.cdnsqu.com/s/FHnNLVw15-6YUHP0qGAqtn-EFBQUFBQXhnT1VFUjVmV1RnaUFmTTBjPQ.xCMypVLbfOkWh-R41L0iNb1mmB17u8LhaK38Fw/UHD_1313/Resident.Evil.2026.2026.D.ru.MovieDalen.WEBDL.1080pp_720.mp4
 #EXTINF:-1 tvg-logo="https://cdnrrviubnyuntopbez5.svc.cdn.yandex.net/get-kinopoisk-image/1599028/69ced32a-98b6-42ec-b01c-2e67932129a2/300x450" group-title="Фильмы",Другая жизнь женщины (2012) (Русский)
